@@ -1,0 +1,53 @@
+   Internet Explorer [alpha 1] , parfois abrégé IE [alpha 2] , est un
+   ancien navigateur web développé par la société américaine Microsoft et
+   installé par défaut avec Windows . Entre la fin des années 1990 , quand
+   il détrône Netscape Navigator , jusque vers 2012, c'est le navigateur
+   web le plus utilisé au monde atteignant plus de 95 % de part de marché
+   en 2004. Internet Explorer atteint moins de 1% de part de marché en
+   mars 2021, et n'est plus activement développé, Microsoft l'ayant
+   remplacé par Microsoft Edge développé depuis 2015 et initialement basé
+   sur EdgeHTML puis, depuis 2020, sur Chromium .
+   Créateur Développé par Fichier exécutable Première version Dernière
+   version État du projet Écrit en Système d'exploitation Environnement
+   Langues Type Licence Site web
+
+   Internet Explorer [alpha 1] , parfois abrégé IE [alpha 2] , est un
+   ancien navigateur web développé par la société américaine Microsoft et
+   installé par défaut avec Windows . Entre la fin des années 1990 , quand
+   il détrône Netscape Navigator , jusque vers 2012, c'est le navigateur
+   web le plus utilisé au monde atteignant plus de 95 % de part de marché
+   en 2004. Internet Explorer atteint moins de 1% de part de marché en
+   mars 2021, et n'est plus activement développé, Microsoft l'ayant
+   remplacé par Microsoft Edge développé depuis 2015 et initialement basé
+   sur EdgeHTML puis, depuis 2020, sur Chromium .
+   Créateur Développé par Fichier exécutable Première version Dernière
+   version État du projet Écrit en Système d'exploitation Environnement
+   Langues Type Licence Site web
+
+   Internet Explorer 1.0 est un navigateur web graphique publié par
+   Microsoft le 16 août 1995 . Il s'agissait d'une version remaniée de
+   Spyglass Mosaic dont Microsoft a pris une licence, comme plusieurs
+   autres sociétés qui développaient des navigateurs sur la base de celui
+   créé par Spyglass . Il était inclus avec Microsoft Plus! pour Windows
+   95 et dans les versions OEM de Windows 95. Il était possible de
+   l'installer par le Internet Jumpstart Kit contenu dans Plus [1] .
+   L'équipe Internet Explorer ne comptait qu'une demi-douzaine de
+   développeurs au début du processus de développement [2]  [3] .
+   Internet Explorer 1.5 est sorti quelques mois plus tard pour Windows NT
+   et ajoutait le support basique de tableaux.
+   Développé par Première version Dernière version Système d'exploitation
+   Environnement Langues Type Licence
+
+   Microsoft Internet Explorer 10 (IE 10) est l'avant dernière version du
+   navigateur Internet Explorer . Cette version est incluse dans Windows 8
+   et Windows RT et en est le navigateur par défaut. Contrairement à IE 9
+   , IE 10 n'est pas compatible avec Windows Vista , ceci afin d'inciter
+   les utilisateurs à migrer vers Windows 7 ou Windows 8 . IE 10 a la
+   particularité de fonctionner sur les deux interfaces de Windows 8
+   (Bureau et Écran d'accueil (Modern UI en anglais), et est également le
+   seul navigateur à pouvoir être installé sur le bureau de Windows RT .
+   IE 10 est inclus en version mobile avec le nouveau Windows Phone 8 [1]
+    [2] . Il est également inclus dans la dernière mise à jour du
+   logiciel Xbox 360 .
+   Développé par Dernière version Environnement Type Licences Site web
+

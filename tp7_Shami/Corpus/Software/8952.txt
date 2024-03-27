@@ -1,0 +1,23 @@
+   Photoshop est un logiciel de retouche , de traitement et de dessin
+   assisté par ordinateur , lancé en 1990 puis en 1992 pour les systèmes
+   d'exploitations MacOS et Windows.
+   Créateur Développé par Première version Dernière version Système
+   d'exploitation Environnement Formats lus Formats écrits Langues Type
+   Licence Site web
+
+   Adobe Photoshop Elements est un logiciel de retouche photo . C'est une
+   version limitée du logiciel professionnel Adobe Photoshop .
+   Développé par Première version Dernière version Système d'exploitation
+   Environnement Type Licence Site web
+
+   Adobe Lightroom Classic CC (anciennement Adobe Lightroom ou Adobe
+   Photoshop Lightroom ) est un logiciel développé par Adobe Systems pour
+   macOS et Microsoft Windows , créé pour assister les photographes
+   professionnels en post-production . Il permet de gérer les flux de
+   productions photographiques de l'importation des données depuis un
+   périphérique jusqu'à la publication. Il remplace ainsi le logiciel
+   Photoshop pour 80 % des tâches courantes des photographes ^[réf.
+   nécessaire] .
+   Développé par Dernière version Écrit en Système d'exploitation
+   Environnement Formats lus Formats écrits Type Licence Site web
+

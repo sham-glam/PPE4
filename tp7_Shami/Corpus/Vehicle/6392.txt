@@ -1,0 +1,13 @@
+   Les navires à passagers sont des navires , bateaux ou vedettes dont le
+   rôle principal est de transporter des passagers, des piétons, que ce
+   soit pour traverser une rivière , une mer ou un bras de mer, ou pour du
+   tourisme .
+
+   Le Chopin est un brick polonais construit en 1999 par Wioska gleglarska
+   Krzysztof Kosiński . Ce navire à passagers navigue sur les grands lacs
+   de la région de Mazurie (lac de Bełdany , lac de Mikołajki et lac de
+   Śniardwy ).
+   Type Histoire Chantier naval Lancement Armé Statut Caractéristiques
+   techniques Longueur Maître-bau Tirant d'eau Propulsion Puissance
+   Carrière Port d'attache
+

@@ -1,0 +1,28 @@
+   Un codec est un dispositif matériel ou logiciel permettant de mettre en
+   œuvre l'encodage ou le décodage d'un flux de données numérique, en vue
+   d'une transmission ou d'un stockage. Certains codec intègrent également
+   une fonction de compression ou encore de chiffrement des données.
+
+   AV1 est un codec vidéo ouvert et libre de droits [1] créé en 2018 et
+   conçu pour la diffusion de flux vidéo sur Internet et réseaux IP [2]
+   comme successeur de VP9 .
+   Type MIME Développé par Type de format Basé sur Spécification Site web
+
+   Bink Video est un format propriétaire de vidéo développé par RAD Games
+   Tools.
+   Extensions Type MIME Développé par Version initiale Type de format
+   Spécification Site web
+
+   Codec , pour Consortium des épiciers du Centre , est une ancienne
+   enseigne française de magasins ( supérettes et supermarchés ),
+   appartenant à un groupe coopératif de commerçants. L'enseigne voit le
+   jour en 1924 et se développe à partir des années 1960 . Après des
+   difficultés financières rencontrées à la fin des années 1980, le groupe
+   Codec est racheté en octobre 1990 par le groupe Promodès . N'ayant
+   jamais pu se développer après son rachat, l'enseigne est
+   progressivement abandonnée au profit de Shopi à la fin des années 1990
+   jusqu'à sa disparition totale en 2003 .
+   Création Dates clés Disparition Fondateurs Personnages clés Forme
+   juridique Siège social Actionnaires Activité Produits Société mère
+   Chiffre d'affaires
+

@@ -1,0 +1,23 @@
+   Le démon est une créature présente dans un grand nombre de cultures.
+
+   Le BSD Daemon est la mascotte des systèmes de la famille BSD : FreeBSD
+   et NetBSD . OpenBSD a, lui, sa propre mascotte, Puffy .
+
+   DAEMON Tools est un émulateur de lecteur CD / DVD , c'est-à-dire un
+   programme informatique capable de créer des lecteurs virtuels afin de
+   permettre la lecture d' images de disques comme s'il s'agissait de
+   supports physiques. Il est disponible pour le système d'exploitation
+   Microsoft Windows , de la version 2000 à Windows 10 . Il est
+   indispensable pour faire tourner certains logiciels.
+   Développé par Dernière version Système d'exploitation Environnement
+   Formats lus Langues Type Licence Site web
+
+   DAEMON Tools est un émulateur de lecteur CD / DVD , c'est-à-dire un
+   programme informatique capable de créer des lecteurs virtuels afin de
+   permettre la lecture d' images de disques comme s'il s'agissait de
+   supports physiques. Il est disponible pour le système d'exploitation
+   Microsoft Windows , de la version 2000 à Windows 10 . Il est
+   indispensable pour faire tourner certains logiciels.
+   Développé par Dernière version Système d'exploitation Environnement
+   Formats lus Langues Type Licence Site web
+

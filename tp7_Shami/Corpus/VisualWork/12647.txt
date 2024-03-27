@@ -1,0 +1,39 @@
+   Cet article recense les usages des termes pi , PI et pI .
+
+   π (pi), appelé parfois constante d’Archimède [alpha 1] , est un nombre
+   représenté par la lettre grecque du même nom en minuscule (π). C’est le
+   rapport constant de la circonférence d’un cercle à son diamètre dans un
+   plan euclidien . On peut également le définir comme le rapport de l'
+   aire d'un disque au carré de son rayon .
+
+   Le Banana Pi est un ordinateur à carte unique fabriqué en Chine . Il
+   supporte Android , Ubuntu , ArchLinux , Fedora , Debian et Gentoo Linux
+   . Raspbian peut être supporté mais le processeur est conforme au modèle
+   Debian. Le processeur utilisé est le Allwinner A20 SoC. Le Banana Pi
+   peut être utilisé comme plateforme de développement de logiciel
+   open-source ainsi que beaucoup d'autres applications [1]  [2]  [3]
+    [4]  [5] .
+   Type Processeur Système d'exploitation
+
+   Cao Pi (chinois 曹丕 ; né en 187 , mort le 29 juin 226 ) est le fondateur
+   de la dynastie Wei . Il est aussi un écrivain , auteur d'un texte
+   d'esthétique littéraire, Essai sur la littérature (論文, lun wen ), et un
+   poète.
+   Empereur de Chine
+   Royaume de Wei 11 décembre 220 - 29 juin 226
+
+   Han Xiandi
+
+   Cao Rui
+
+   Roi de Chine
+   Royaume de Wei 15 mars - 11 décembre 220
+
+   Cao Cao
+
+   -
+
+   Naissance Décès Nom dans la langue maternelle Prénom social Nom
+   posthume Nom de temple Activités Famille Père Mère Fratrie Conjoints
+   Enfants Parentèle
+

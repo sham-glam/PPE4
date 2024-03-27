@@ -1,0 +1,12 @@
+   HarmonyOS ( chinois : 鸿蒙OS ; pinyin : Hóngméng OS ) est une famille de
+   systèmes d'exploitations développés par Huawei . Dévoilé le 9 août 2019
+   , Huawei a initialement déclaré qu'il s'agirait d'un système
+   d'exploitation distribué développé indépendamment.
+   Famille Langues Type de noyau État du projet Plates-formes Entreprise /
+   Fondateur États des sources Écrit en Première version Dernière version
+   stable Dernière version avancée Méthode de mise à jour Interface
+   utilisateur par défaut Environnement de bureau Gestionnaire de paquets
+   Site web Famille Langues État du projet Plates-formes Entreprise /
+   Fondateur États des sources Écrit en Première version Dernière version
+   stable Site web
+

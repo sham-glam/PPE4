@@ -1,0 +1,25 @@
+   La Porsche 919 Hybrid est une voiture de course de type
+   Sport-prototypes , appartenant à la catégorie des Le Mans Prototype .
+   Elle est développée par Porsche pour courir dans la catégorie LMP1-H du
+   Championnat du monde d'endurance FIA à partir de la saison 2014 .
+   Engagée par l' équipe d'usine Porsche Team , elle a notamment permis à
+   la marque de remporter les 24 Heures du Mans 2015 , 2016 et 2017 ainsi
+   que les titres pilotes et constructeurs du championnat en 2015 , 2016
+   et 2017 .
+   Marque Années de production Classe Moteur et transmission Énergie
+   Moteur(s) Position du moteur Cylindrée Puissance maximale Transmission
+   Boîte de vitesses Poids et performances Poids à vide Accélération
+   Châssis - Carrosserie Carrosserie(s) Châssis Direction Freins
+   Dimensions Longueur Largeur Hauteur Chronologie des modèles
+
+   La Porsche 919 Hybrid Evo est une voiture de sport-prototype issue de
+   la Porsche 919 Hybrid engagée en championnat du monde d'endurance FIA
+   entre 2014 et 2017 . Elle est conçue dans l'objectif de pouvoir battre
+   des records de temps au tour. Elle ne répond à aucune réglementation
+   technique, et est ainsi libérée de toutes contraintes. En 2018, elle
+   bat les records du tour absolu des circuits de Spa-Francorchamps et du
+   Nürburgring .
+   Équipe Constructeur Année du modèle Châssis Cylindrée Configuration
+   Boîte de vitesses Nombre de rapports Cockpit Poids Dimensions Courses
+   Victoires Pole Meilleur tour
+

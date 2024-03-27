@@ -1,0 +1,25 @@
+   Un aérodrome est un site, civil ou militaire, aménagé pour permettre
+   aux avions de décoller et d'atterrir, et doté de l'infrastructure
+   nécessaire pour les préparer à leurs missions. Il comprend une ou
+   plusieurs pistes d'envol et d'atterrissage, des aires de stationnement,
+   des ateliers de réparations et de vérifications...
+
+   L' aérodrome d'Amougies est un aérodrome de type récréatif en province
+   de Hainaut en Belgique .
+   Localisation Pays Ville Coordonnées Altitude Informations aéronautiques
+   Code OACI Type d'aéroport Gestionnaire Pistes Direction Longueur
+   Surface
+
+   Aérodrome d' Arbois - Villette-lès-Arbois OACI : ( LFGD )
+   Localisation Pays Ville Coordonnées Altitude Informations aéronautiques
+   Code OACI Nom cartographique Type d'aéroport Gestionnaire Pistes
+   Direction Longueur Surface
+
+   L’ aérodrome d’Avranches - Le Val-Saint-Père (code OACI : LFRW ) est un
+   aérodrome civil français agréé à usage restreint [1] , situé sur la
+   commune du Val-Saint-Père à 3 km au sud-ouest d’ Avranches dans le
+   département de la Manche en région Normandie .
+   Localisation Pays Département Ville Date d'ouverture Coordonnées
+   Altitude Informations aéronautiques Code OACI Nom cartographique Type
+   d'aéroport Gestionnaire Pistes Direction Longueur Surface
+

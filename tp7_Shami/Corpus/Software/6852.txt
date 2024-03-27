@@ -1,0 +1,40 @@
+   GNOME , acronyme de G NU N etwork O bject M odel E nvironment , est un
+   environnement de bureau libre convivial dont l'objectif est de rendre
+   accessible l'utilisation du système d'exploitation GNU au plus grand
+   nombre ; cette interface est actuellement populaire sur les systèmes
+   GNU / Linux et fonctionne également sur la plupart des systèmes de type
+   UNIX . GNOME est avec KDE la principale alternative libre et grand
+   public aux interfaces des systèmes d'exploitation plus répandus
+   (c'est-à-dire Windows et Mac OS X ).
+   Développé par Première version Dernière version Version avancée Dépôt
+   Écrit en Interface Système d'exploitation Environnement Langues Type
+   Licence Site web
+
+   Le gnome est une petite créature humanoïde légendaire du folklore
+   européen . Il est souvent confondu avec les lutins et les gobelins ,
+   qui comme lui font partie du « petit peuple ». Paracelse , au XVI ^e
+   siècle , l'inclut à sa liste d’ élémentaires , en tant qu’élémentaire
+   de la terre .
+   Groupe Sous-groupe Caractéristiques Habitat Proches Origine Région
+   Première mention
+
+   Le gnome est une petite créature humanoïde légendaire du folklore
+   européen . Il est souvent confondu avec les lutins et les gobelins ,
+   qui comme lui font partie du « petit peuple ». Paracelse , au XVI ^e
+   siècle , l'inclut à sa liste d’ élémentaires , en tant qu’élémentaire
+   de la terre .
+   Groupe Sous-groupe Caractéristiques Habitat Proches Origine Région
+   Première mention
+
+   GNOME , acronyme de G NU N etwork O bject M odel E nvironment , est un
+   environnement de bureau libre convivial dont l'objectif est de rendre
+   accessible l'utilisation du système d'exploitation GNU au plus grand
+   nombre ; cette interface est actuellement populaire sur les systèmes
+   GNU / Linux et fonctionne également sur la plupart des systèmes de type
+   UNIX . GNOME est avec KDE la principale alternative libre et grand
+   public aux interfaces des systèmes d'exploitation plus répandus
+   (c'est-à-dire Windows et Mac OS X ).
+   Développé par Première version Dernière version Version avancée Dépôt
+   Écrit en Interface Système d'exploitation Environnement Langues Type
+   Licence Site web
+

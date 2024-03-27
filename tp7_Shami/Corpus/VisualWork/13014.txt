@@ -1,0 +1,22 @@
+   On appelle adaptation le processus de modification d'un objet, d'un
+   organisme vivant ou d'une organisation humaine de façon à rester
+   fonctionnel dans de nouvelles conditions, ainsi que le résultat de ce
+   processus.
+
+   Dans l’étude des processus stochastiques , un processus adapté est un
+   processus qui ne peut pas «voir l’avenir». Une interprétation
+   informelle [1] est qu'un processus X est adapté si et seulement si,
+   pour chaque réalisation et chaque n , X [n ]est connu au temps n . Le
+   concept de processus adapté est essentiel, par exemple, dans la
+   définition de l' intégrale d'Itô , qui n'a de sens que si l' intégrant
+   est un processus adapté.
+
+   Le sport adapté rassemble l'ensemble des activités physiques et
+   sportives pour les personnes présentant une déficience intellectuelle
+   (handicap mental) ou un trouble psychique .
+
+   Le transport adapté (en anglais : paratransit ) est l'offre de services
+   de transport qui complète les transports en commun ordinaires par la
+   possibilité de trajets individualisés sans itinéraires obligatoires ni
+   horaires fixes.
+

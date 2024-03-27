@@ -1,0 +1,14 @@
+   Heartbeat (« battement cardiaque » en anglais) peut faire référence à :
+
+   Heartbeat (« battement cardiaque » en anglais) peut faire référence à :
+
+   Heartbeat est une entreprise japonaise de développement de jeux vidéo
+   fondée en 1992 . La compagnie cesse ses activités en 2002, mais
+   certains de ses membres créent Genius Sonority , une société qui
+   développe des jeux pour Nintendo .
+   Création Disparition Siège social Activité Effectif Site web
+
+   Heartbeat est un logiciel de surveillance de la disponibilité des
+   programmes, pour les systèmes d'exploitation Linux , FreeBSD , OpenBSD
+   , Solaris et MacOS X . Il est distribué sous licence GPL .
+

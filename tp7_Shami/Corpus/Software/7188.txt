@@ -1,0 +1,30 @@
+   X11 ou X-11 peut faire référence à :
+
+   Filesystem Hierarchy Standard (« norme de la hiérarchie des systèmes de
+   fichiers », abrégé en FHS ) définit l' arborescence et le contenu des
+   principaux répertoires des systèmes de fichiers des systèmes
+   d'exploitation GNU / Linux et de la plupart des systèmes Unix .
+
+   XQuartz (autrefois appelé Apple X11 ou X11.app ) est un logiciel pour
+   Mac OS X permettant le lancement d'un serveur X Window . X11 était
+   initialement basé sur XFree86 (de Mac OS X.2 à Mac OS X.4). À partir de
+   Mac OS X.5, il s'est basé sur X.org , comme la majorité des
+   distributions Linux . Il possède de nombreux concurrents, tels que les
+   XTools , payants, propriétés de Tenon . Son prédécesseur XDarwin a
+   permis, avant qu' Apple ne le fasse, aux utilisateurs de Macintosh
+   d'accéder à X Window (de Mac OS X.1 à Mac OS X.3). Enfin, le projet
+   Fink permet l'installation d' X.org .
+   Développé par Dépôt Écrit en Système d'exploitation Type Licence Site
+   web
+
+   La Honda X11 ou CB 1100 SF est une motocyclette japonaise fabriquée par
+   Honda Motor Co. Ltd , catégorie roadster . La Honda X-Eleven a été
+   présentée en septembre 1999 en Europe.
+   Constructeur Années de production Type Moteur et transmission Moteur(s)
+   Distribution Cylindrée Puissance maximale Couple maximal Alimentation
+   Embrayage Boîte de vitesses Transmission Vitesse maximale Cadre,
+   suspensions et freinage Cadre Suspension avant (débattement) Suspension
+   arrière (débattement) Frein avant (diamètre) Frein arrière (diamètre)
+   Poids et dimensions Roue avant Roue arrière Empattement Hauteur de
+   selle Poids à sec Réservoir (réserve)
+

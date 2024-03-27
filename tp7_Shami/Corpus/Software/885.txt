@@ -1,0 +1,12 @@
+   Le programme tar (de l'anglais t ape ar chiver , littéralement «
+   archiveur pour bande ») est un logiciel d' archivage de fichiers
+   standard des systèmes de type UNIX . Il a été créé dans les premières
+   versions d' UNIX et standardisé par les normes POSIX .1-1988 puis
+   POSIX.1-2001 . Il existe plusieurs implémentations [1] tar , la plus
+   couramment utilisée étant GNU tar.
+   Extension Type MIME PUID Signature Développé par Version initiale Type
+   de format Contenu par Spécification
+
+   TÁR est un film américain réalisé par Todd Field , sorti en 2022 .
+   Réalisation Scénario Pays de production Genre Durée Sortie
+

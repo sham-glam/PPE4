@@ -1,0 +1,29 @@
+   La messagerie instantanée ( MI ) permet l’échange instantané de
+   messages textuels et de fichiers entre plusieurs personnes par
+   l'intermédiaire d’ ordinateurs , de tablettes ou de téléphones mobiles
+   connectés à un même réseau informatique , plus communément à Internet .
+   Contrairement au courrier électronique , ce moyen de communication
+   permet de conduire un dialogue interactif .
+
+   La messagerie instantanée ( MI ) permet l’échange instantané de
+   messages textuels et de fichiers entre plusieurs personnes par
+   l'intermédiaire d’ ordinateurs , de tablettes ou de téléphones mobiles
+   connectés à un même réseau informatique , plus communément à Internet .
+   Contrairement au courrier électronique , ce moyen de communication
+   permet de conduire un dialogue interactif .
+
+   La messagerie instantanée ( MI ) permet l’échange instantané de
+   messages textuels et de fichiers entre plusieurs personnes par
+   l'intermédiaire d’ ordinateurs , de tablettes ou de téléphones mobiles
+   connectés à un même réseau informatique , plus communément à Internet .
+   Contrairement au courrier électronique , ce moyen de communication
+   permet de conduire un dialogue interactif .
+
+   Coccinella est un logiciel libre client de messagerie instantanée pour
+   le réseau standard ouvert Jabber / XMPP . Coccinella est développé sous
+   licence libre GNU GPL et est disponible sur les systèmes d'exploitation
+   Windows , Mac OS X et GNU/Linux . La bibliothèque graphique libre
+   Tcl/Tk est employée pour une compatibilité multiplateforme.
+   Développé par Dernière version Écrit en Interface Système
+   d'exploitation Environnement Type Licence Site web
+

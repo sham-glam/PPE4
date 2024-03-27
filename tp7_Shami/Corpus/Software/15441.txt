@@ -1,0 +1,7 @@
+   Computer Othello est un jeu vidéo développé par Nintendo et distribué
+   en 1978 , uniquement au Japon . Bien que l'année précédente soit sortie
+   leur première console de salon nommée Color TV-Game , et qu'ils aient
+   produit de nombreuses bornes d'arcade dans les années 1970 , Computer
+   Othello est le premier jeu d'arcade produit par Nintendo .
+   Développeur Éditeur Date de sortie Genre Mode de jeu Plateforme
+

@@ -1,0 +1,8 @@
+   CCleaner (abréviation de Crap Cleaner ) est un logiciel gratuit
+   permettant d'optimiser le fonctionnement d'un ordinateur muni d'un
+   système d'exploitation Windows , Mac OS / OS X et de protéger la vie
+   privée des utilisateurs de l'ordinateur.
+   Développé par Première version Dernière version État du projet Écrit en
+   Système d'exploitation Environnement Taille des données Langues Type
+   Politique de distribution Licence Site web
+

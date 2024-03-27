@@ -1,0 +1,16 @@
+   Le CMA CGM Bougainville est un navire porte-conteneurs de la compagnie
+   française CMA CGM . Le bateau, inauguré le 25 août 2015 dans le port du
+   Havre, a été nommé ainsi en hommage au navigateur français
+   Louis-Antoine de Bougainville . C'est le quatrième de la série de six
+   navires du groupe appartenant à la même classe à être livré en 2015 et
+   le plus long. C'est le plus grand navire français de l'histoire lors de
+   sa livraison. Il est inauguré le 6 octobre 2015 au Havre , en présence
+   du président de la République française François Hollande . Il y a
+   vingt-sept membres d'équipage à bord. Première technologique, la
+   traçabilité de chaque conteneur est surveillée, mais aussi ses
+   vibrations et températures.
+   Type Histoire Constructeur Chantier naval Statut Équipage Équipage
+   Caractéristiques techniques Longueur Maître-bau Tirant d'eau Propulsion
+   Puissance Caractéristiques commerciales Capacité Carrière Propriétaire
+   Pavillon Port d'attache IMO Coût
+

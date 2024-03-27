@@ -1,0 +1,20 @@
+   SIEL (Système d'information en ligne) version Bus est un ensemble de
+   matériels destiné à la régulation et à l'information des voyageurs que
+   la Régie autonome des transports parisiens (RATP) déploie sur certaines
+   lignes de bus de l' agglomération parisienne .
+
+   Altair peut faire référence à :
+
+   Alpha Aquilae • Altaïr de l'Aigle
+   Ascension droite Déclinaison Constellation Magnitude apparente Type
+   spectral Indice U-B Indice B-V Indice V-R Indice R-I Variabilité
+   Vitesse radiale Mouvement propre Parallaxe Distance Magnitude absolue
+   Masse Rayon Gravité de surface (log g) Luminosité Température
+   Métallicité Rotation Âge
+
+   L' Altair 8800 du constructeur américain MITS est un micro-ordinateur
+   basé sur le microprocesseur Intel 8080 et vendu en kit électronique à
+   quelques milliers d'exemplaires pour les particuliers en 1975 .
+   Développeur Fabricant Date de sortie Type Environnement Processeur
+   Mémoire
+

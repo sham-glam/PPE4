@@ -1,0 +1,30 @@
+   Windows NT 4.0 , apparu en 1996 , est une version professionnelle de
+   Microsoft Windows orientée réseau et sécurité. Contrairement à Windows
+   95 elle ne repose pas sur MS-DOS . Son architecture est 100 % 32 bits ,
+   multi-cœurs , multi-utilisateur et multi-processeur , contrairement à
+   Windows 95 qui utilise un noyau hybride 16/ 32 bits , et est
+   mono-processeur et mono-utilisateur.
+   Famille Langues Type de noyau État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Méthode de mise à jour Environnement de bureau Site web
+
+   Windows NT 4.0 , apparu en 1996 , est une version professionnelle de
+   Microsoft Windows orientée réseau et sécurité. Contrairement à Windows
+   95 elle ne repose pas sur MS-DOS . Son architecture est 100 % 32 bits ,
+   multi-cœurs , multi-utilisateur et multi-processeur , contrairement à
+   Windows 95 qui utilise un noyau hybride 16/ 32 bits , et est
+   mono-processeur et mono-utilisateur.
+   Famille Langues Type de noyau État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Méthode de mise à jour Environnement de bureau Site web
+
+   Windows NT 4.0 , apparu en 1996 , est une version professionnelle de
+   Microsoft Windows orientée réseau et sécurité. Contrairement à Windows
+   95 elle ne repose pas sur MS-DOS . Son architecture est 100 % 32 bits ,
+   multi-cœurs , multi-utilisateur et multi-processeur , contrairement à
+   Windows 95 qui utilise un noyau hybride 16/ 32 bits , et est
+   mono-processeur et mono-utilisateur.
+   Famille Langues Type de noyau État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Méthode de mise à jour Environnement de bureau Site web
+

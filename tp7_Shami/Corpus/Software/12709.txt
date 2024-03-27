@@ -1,0 +1,30 @@
+   iOS (initialement iPhone OS ) est un système d'exploitation mobile créé
+   et développé par la société américaine Apple exclusivement pour ses
+   produits. Il alimente de nombreux appareils tels que l' iPhone , l'
+   IPod touch et fonctionnait sur les iPad jusqu'en 2019. Il s'agit du
+   deuxième système d'exploitation mobile le plus installé au monde, après
+   Android . Il constitue la base de quatre autres systèmes d'exploitation
+   : iPadOS , tvOS , watchOS et macOS . Il s'agit d'un logiciel
+   propriétaire , bien que certaines parties soient en open source sous la
+   licence Apple Public Source License et d'autres licences.
+   Famille Langues Type de noyau État du projet Plates-formes Entreprise /
+   Fondateur Licence États des sources Écrit en Première version Dernière
+   version stable Dernière version avancée Méthode de mise à jour
+   Environnement de bureau Gestionnaire de paquets Site web
+
+   iPhone OS 1 est la toute première version d' iOS , le système
+   d'exploitation mobile d' Apple . iPhone OS 1.1.5 est la dernière mise à
+   jour d'iPhone OS 1.
+   Plates-formes Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Site web
+
+   iPhone OS 2 est la deuxième version majeure d' iOS , système
+   d'exploitation mobile développé par Apple , il s'agit du successeur d'
+   iPhone OS 1 . C'est la première version d'iOS qui donne la possibilité
+   à l'utilisateur de télécharger des applications depuis l' App Store .
+   iPhone OS 2.2.1 est la dernière mise à jour d'iPhone OS 2. Elle a été
+   remplacée par iPhone OS 3 le 17 juin 2009 .
+   Plates-formes Entreprise /
+   Développeur Licence Première version Dernière version stable
+

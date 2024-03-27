@@ -1,0 +1,6 @@
+   Flatpak (anciennement xdg-app ) est un système de virtualisation
+   d’application pour les distributions GNU/Linux de bureau .
+   Développé par Première version Dernière version Dépôt Écrit en Système
+   d'exploitation Formats lus Type Politique de distribution Licence Site
+   web
+

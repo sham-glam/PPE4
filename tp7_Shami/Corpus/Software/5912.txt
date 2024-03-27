@@ -1,0 +1,14 @@
+   .mail est un domaine de premier niveau générique proposé par le projet
+   The Spamhaus Project en 2004, mais non approuvé par l' Internet
+   Corporation for Assigned Names and Numbers (ICANN).
+
+   Le mot mail a trois homonymes, de prononciations différentes :
+
+   AOL Mail est le service de messagerie d' AOL . AOL Mail est gratuit et
+   comprend un service de messagerie instantanée AIM .
+
+   Une adresse électronique , adresse courriel ou adresse e-mail (de
+   l'anglais / ˈ i ː m e ɪ l / [1]
+   ) est une chaîne de caractères permettant d'acheminer du courrier
+   électronique dans une boîte aux lettres informatique.
+

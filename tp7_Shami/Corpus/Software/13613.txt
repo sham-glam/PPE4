@@ -1,0 +1,32 @@
+   Le mot trame peut désigner :
+
+   Une inter-trame ou inter frame ou image inter désigne dans la
+   compression vidéo une image ou une trame appartenant à un flux qui a
+   été codé à partir d'un algorithme de prédiction inter-trame. Elle
+   dépend des images précédemment codées afin de prédire la position des
+   macroblocs d'origine. L'objectif de cet algorithme est de définir un
+   vecteur de mouvement qui traduit le déplacement d'un bloc dans une
+   image déjà codée dite de référence et sa position dans l'image
+   courante. Cette prédiction est aussi appelée prédiction temporelle.
+   Elle a pour but de profiter des redondances temporelles entre les
+   images ou trames voisines et ainsi obtenir un meilleur taux de
+   compression. Elle se différencie de l' intra-trame qui est codée à
+   partir d'un algorithme de prédiction spatiale . L'avantage de la
+   prédiction inter est que pour coder un objet en mouvement, il suffit de
+   trouver un bloc existant dans une image déjà codée qui ressemble au
+   bloc courant et de coder la différence des valeurs des composantes
+   entre ces deux blocs ainsi que son vecteur alors que pour la prédiction
+   intra, chaque macrobloc de l'image courante doit être codée à partir de
+   la texture de leurs voisins qui peut varier assez facilement.
+
+   Une trame est, en imprimerie et en dessin technique, une surface
+   composée soit de points régulièrement espacés ou de lignes, d’épaisseur
+   et d’espacements prédéfinis, qui ont pour effet de donner visuellement
+   différentes valeurs de gris. La majorité des techniques d’impression ne
+   permettent pas d’obtenir directement des nuances et des dégradés d’une
+   même couleur : il faut pour cela passer par l’étape du tramage, qui
+   consiste à transformer une image en demi-teintes (une photographie) en
+   une succession de points plus ou moins épais et serrés.
+
+   La trame historique est une notion utilisée par Karl Marx .
+

@@ -1,0 +1,49 @@
+   L ' Extensible Markup Language , généralement appelé XML [note 1] , «
+   langage de balisage extensible [1] » en français, est un métalangage
+   informatique de balisage générique qui est un sous-ensemble du Standard
+   Generalized Markup Language (SGML). Sa syntaxe est dite « extensible »
+   car elle permet de définir différents langages avec pour chacun son
+   vocabulaire et sa grammaire, comme XHTML , XSLT , RSS , SVG … Elle est
+   reconnaissable par son usage des chevrons ( < , > ) encadrant les noms
+   des balises. L'objectif initial de XML est de faciliter l'échange
+   automatisé de contenus complexes ( arbres , texte enrichi, etc.) entre
+   systèmes d'informations hétérogènes ( interopérabilité ). Avec ses
+   outils et langages associés, une application XML respecte généralement
+   certains principes :
+   Extension Type MIME PUID Développé par Version initiale Type de format
+   Basé sur Norme Spécification Site web
+
+   L ' Extensible Markup Language , généralement appelé XML [note 1] , «
+   langage de balisage extensible [1] » en français, est un métalangage
+   informatique de balisage générique qui est un sous-ensemble du Standard
+   Generalized Markup Language (SGML). Sa syntaxe est dite « extensible »
+   car elle permet de définir différents langages avec pour chacun son
+   vocabulaire et sa grammaire, comme XHTML , XSLT , RSS , SVG … Elle est
+   reconnaissable par son usage des chevrons ( < , > ) encadrant les noms
+   des balises. L'objectif initial de XML est de faciliter l'échange
+   automatisé de contenus complexes ( arbres , texte enrichi, etc.) entre
+   systèmes d'informations hétérogènes ( interopérabilité ). Avec ses
+   outils et langages associés, une application XML respecte généralement
+   certains principes :
+   Extension Type MIME PUID Développé par Version initiale Type de format
+   Basé sur Norme Spécification Site web
+
+   L ' Extensible Markup Language , généralement appelé XML [note 1] , «
+   langage de balisage extensible [1] » en français, est un métalangage
+   informatique de balisage générique qui est un sous-ensemble du Standard
+   Generalized Markup Language (SGML). Sa syntaxe est dite « extensible »
+   car elle permet de définir différents langages avec pour chacun son
+   vocabulaire et sa grammaire, comme XHTML , XSLT , RSS , SVG … Elle est
+   reconnaissable par son usage des chevrons ( < , > ) encadrant les noms
+   des balises. L'objectif initial de XML est de faciliter l'échange
+   automatisé de contenus complexes ( arbres , texte enrichi, etc.) entre
+   systèmes d'informations hétérogènes ( interopérabilité ). Avec ses
+   outils et langages associés, une application XML respecte généralement
+   certains principes :
+   Extension Type MIME PUID Développé par Version initiale Type de format
+   Basé sur Norme Spécification Site web
+
+   Le 3D XML est un format de données 3D créé par Dassault Systèmes ,
+   éditeur de logiciels CAO ( CATIA , SolidWorks ). La spécification a été
+   rendue publique le 15 juin 2005 .
+

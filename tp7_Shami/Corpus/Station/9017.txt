@@ -1,0 +1,9 @@
+   L' aéroport Pattimura est un aéroport desservant la ville d' Ambon ,
+   sur l'archipel des Moluques , en Indonésie ( code IATA : AMQ • code
+   OACI : WAPP ) . L'aéroport porte le nom de Pattimura , un héros
+   national qui combattit les Hollandais en 1816. Plus de 1 million de
+   passagers l'ont fréquenté en 2013.
+   Localisation Pays Ville Coordonnées Altitude Informations aéronautiques
+   Code IATA Code OACI Type d'aéroport Gestionnaire Site web aéroport
+   Pistes Direction Longueur Surface
+

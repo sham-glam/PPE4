@@ -1,0 +1,6 @@
+   OpenSSH ( OpenBSD Secure Shell ) est un ensemble d'outils informatiques
+   libres permettant des communications sécurisées sur un réseau
+   informatique en utilisant le protocole SSH .
+   Développé par Première version Dernière version Dépôt État du projet
+   Écrit en Système d'exploitation Environnement Type Licence Site web
+

@@ -1,0 +1,30 @@
+   Un moteur de recherche est une application permettant à un utilisateur
+   d'effectuer une recherche locale ou en ligne , c'est-à-dire de trouver
+   des ressources à partir d'une requête composée de termes. Les
+   ressources peuvent notamment être des pages web , des articles de
+   forums Usenet , des images , des vidéos , des fichiers , des ouvrages,
+   des sites pédagogiques, des applications , des logiciels open source .
+
+   Un moteur de recherche est une application permettant à un utilisateur
+   d'effectuer une recherche locale ou en ligne , c'est-à-dire de trouver
+   des ressources à partir d'une requête composée de termes. Les
+   ressources peuvent notamment être des pages web , des articles de
+   forums Usenet , des images , des vidéos , des fichiers , des ouvrages,
+   des sites pédagogiques, des applications , des logiciels open source .
+
+   Un moteur de recherche est une application permettant à un utilisateur
+   d'effectuer une recherche locale ou en ligne , c'est-à-dire de trouver
+   des ressources à partir d'une requête composée de termes. Les
+   ressources peuvent notamment être des pages web , des articles de
+   forums Usenet , des images , des vidéos , des fichiers , des ouvrages,
+   des sites pédagogiques, des applications , des logiciels open source .
+
+   Archie est un outil indexant le contenu proposé par les différents
+   sites FTP , et qui permet de retrouver rapidement un fichier donné. Il
+   est considéré comme étant le premier moteur de recherche Internet [1] .
+   Il fut initialement développé en 1990 par Alan Emtage et J. Peter
+   Deutsch , puis par les étudiants de troisième cycle de l' Université
+   McGill à Montréal , ainsi que par Bill Heelan , qui étudiait à l'
+   Université Concordia , tout en travaillant simultanément à l'Université
+   McGill [2] .
+

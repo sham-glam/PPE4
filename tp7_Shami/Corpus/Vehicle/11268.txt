@@ -1,0 +1,4 @@
+   La classe Almirante Lynch est une classe de destroyers conducteurs de
+   flottille construits au Royaume-Uni pour le compte de la Marine
+   chilienne .
+

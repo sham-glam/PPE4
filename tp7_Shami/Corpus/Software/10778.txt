@@ -1,0 +1,28 @@
+   Un éditeur de texte est un logiciel destiné à la création et l'édition
+   de fichiers textes . Chaque système d'exploitation fournit un éditeur,
+   tant son usage est courant, voire incontournable pour certaines tâches
+   informatiques de base comme l'administration de système et le
+   développement de logiciels.
+
+   Un éditeur de texte est un logiciel destiné à la création et l'édition
+   de fichiers textes . Chaque système d'exploitation fournit un éditeur,
+   tant son usage est courant, voire incontournable pour certaines tâches
+   informatiques de base comme l'administration de système et le
+   développement de logiciels.
+
+   Atom est un éditeur de texte libre pour macOS , GNU/Linux et Windows
+   développé par GitHub . Il prend en charge des plug-ins écrits en
+   Node.js et implémente Git Control . La plupart des extensions sont sous
+   licence libre et sont maintenues par la communauté [4] . Atom est basé
+   sur Chromium et Electron et est écrit en CoffeeScript [5] . Il est
+   aussi utilisé en tant qu’ environnement de développement (EDI).
+   Créateur Développé par Fichier exécutable Première version Dernière
+   version Version avancée Dépôt Assurance qualité État du projet Écrit en
+   Supporte les langages Système d'exploitation Taille des données Langues
+   Type Politique de distribution Licence Site web
+
+   E était un éditeur de texte utilisé par le laboratoire d' intelligence
+   artificielle de l' université Stanford sur ses systèmes Twenex et TENEX
+   [1] .
+   Système d'exploitation Environnement Type
+

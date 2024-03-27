@@ -1,0 +1,27 @@
+   Le HyperText Markup Language , généralement abrégé HTML ou, dans sa
+   dernière version, HTML5 , est le langage de balisage conçu pour
+   représenter les pages web .
+   Extensions Type MIME PUID Développé par Version initiale Type de format
+   Basé sur Origine de Norme ISO Spécification Sites web
+
+   Le HyperText Markup Language , généralement abrégé HTML ou, dans sa
+   dernière version, HTML5 , est le langage de balisage conçu pour
+   représenter les pages web .
+   Extensions Type MIME PUID Développé par Version initiale Type de format
+   Basé sur Origine de Norme ISO Spécification Sites web
+
+   Le HyperText Markup Language , généralement abrégé HTML ou, dans sa
+   dernière version, HTML5 , est le langage de balisage conçu pour
+   représenter les pages web .
+   Extensions Type MIME PUID Développé par Version initiale Type de format
+   Basé sur Origine de Norme ISO Spécification Sites web
+
+   HTML5 ( HyperText Markup Language 5 ) est la dernière révision majeure
+   du HTML ( format de données conçu pour représenter les pages web ).
+   Cette version a été finalisée le 28 octobre 2014 . HTML5 spécifie deux
+   syntaxes d'un modèle abstrait défini en termes de DOM : HTML5 et XHTML5
+   .
+   Date de première version Paradigme Auteur Développeur Dernière version
+   Version en développement Typage Influencé par A influencé Écrit en Site
+   web Extensions de fichiers
+

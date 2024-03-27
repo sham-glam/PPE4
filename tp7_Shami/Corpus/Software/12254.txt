@@ -1,0 +1,12 @@
+   WinFS (pour Windows Future Storage (en) [1] ) est le nom d’une
+   extension annulée puis redéveloppée du système de fichier NTFS , ou
+   plus exactement une nouvelle procédure d’accès aux fichiers dont le
+   support NTFS sous-jacent serait resté en place, dans les coulisses de
+   Windows .
+
+   WinFS (pour Windows Future Storage (en) [1] ) est le nom d’une
+   extension annulée puis redéveloppée du système de fichier NTFS , ou
+   plus exactement une nouvelle procédure d’accès aux fichiers dont le
+   support NTFS sous-jacent serait resté en place, dans les coulisses de
+   Windows .
+

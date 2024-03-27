@@ -1,0 +1,10 @@
+   Les BB 63000 sont des locomotives diesel-électriques faisant partie de
+   la grande famille des BB Brissonneau et Lotz (avec les BB 63400 / BB
+   63500 ). Elles sont parfois surnommées les « deux chevaux ».
+   Exploitant(s) Désignation Surnom Type Motorisation Couplage
+   Construction Constructeur(s) Mise en service Effectif Affectation nbre
+   série puissance Disposition des essieux Écartement Carburant Moteur
+   thermique Moteurs de traction Puissance continue Capacité en carburant
+   Consommation Masse en service Longueur Largeur Hauteur Empattement
+   Bogies Empattement du bogie Diamètre des roues Vitesse maximale
+

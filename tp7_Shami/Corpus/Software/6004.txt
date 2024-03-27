@@ -1,0 +1,6 @@
+   fsck ( File System Check ou File System Consistency Check ) est un
+   outil sous UNIX / Linux pour vérifier la cohérence d'un système de
+   fichiers . S'il y a des incohérences, il est capable de les corriger
+   dans la plupart des cas.
+   Type
+

@@ -1,0 +1,9 @@
+   Créteil - L'Échat est une station de la ligne 8 du métro de Paris ,
+   située sur la commune de Créteil .
+   Localisation Pays Ville Coordonnées
+   géographiques Caractéristiques Position par
+   rapport au sol Voies Quais Nombre d'accès Accessibilité Zone Transit
+   annuel Historique Mise en service Architecte(s) Artiste(s) Gestion et
+   exploitation Propriétaire Exploitant Code(s) de la station Ligne(s)
+   Correspondances Bus RATP Bus STRAV Express
+

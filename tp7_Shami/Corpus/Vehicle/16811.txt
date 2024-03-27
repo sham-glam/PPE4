@@ -1,0 +1,12 @@
+   La Kia Soul est un SUV urbain produit par le constructeur automobile
+   coréen Kia .
+
+   La Kia Soul EV est une automobile du type crossover électrique du
+   constructeur sud-coréen Kia Motors .
+   Marque Années de production Moteur et transmission Énergie Moteur(s)
+   Position du moteur Puissance maximale Couple maximal Transmission Boîte
+   de vitesses Poids et performances Poids à vide Vitesse maximale
+   Accélération Consommation Châssis - Carrosserie Carrosserie(s)
+   Direction Freins Dimensions Longueur Largeur Hauteur Empattement Voies
+   AV/AR Volume du coffre Chronologie des modèles
+

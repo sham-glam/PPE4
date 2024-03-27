@@ -1,0 +1,35 @@
+   Vim est un éditeur de texte , c’est-à-dire un logiciel permettant la
+   manipulation de fichiers texte . Il est directement inspiré de vi [2]
+   (un éditeur très répandu sur les systèmes d’exploitation de type Unix
+   ), dont il est le clone le plus populaire. Son nom signifie d’ailleurs
+   Vi IMproved , que l’on peut traduire par « VI aMélioré ».
+   Créateur Développé par Première version Dernière version Dépôt Écrit en
+   Supporte les langages Système d'exploitation Environnement Langues Type
+   Licence Site web
+
+   Vim est un éditeur de texte , c’est-à-dire un logiciel permettant la
+   manipulation de fichiers texte . Il est directement inspiré de vi [2]
+   (un éditeur très répandu sur les systèmes d’exploitation de type Unix
+   ), dont il est le clone le plus populaire. Son nom signifie d’ailleurs
+   Vi IMproved , que l’on peut traduire par « VI aMélioré ».
+   Créateur Développé par Première version Dernière version Dépôt Écrit en
+   Supporte les langages Système d'exploitation Environnement Langues Type
+   Licence Site web
+
+   Le HMS Statice est une corvette de la classe Flower en service dans la
+   Royal Navy pendant la Seconde Guerre mondiale .
+   Autres noms Type Classe Histoire A servi dans Constructeur Chantier
+   naval Quille posée Lancement Commission Statut Équipage Équipage
+   Caractéristiques techniques Longueur Maître-bau Tirant d'eau
+   Déplacement Propulsion Puissance Vitesse Caractéristiques militaires
+   Armement Carrière Indicatif
+
+   Vim est un éditeur de texte , c’est-à-dire un logiciel permettant la
+   manipulation de fichiers texte . Il est directement inspiré de vi [2]
+   (un éditeur très répandu sur les systèmes d’exploitation de type Unix
+   ), dont il est le clone le plus populaire. Son nom signifie d’ailleurs
+   Vi IMproved , que l’on peut traduire par « VI aMélioré ».
+   Créateur Développé par Première version Dernière version Dépôt Écrit en
+   Supporte les langages Système d'exploitation Environnement Langues Type
+   Licence Site web
+

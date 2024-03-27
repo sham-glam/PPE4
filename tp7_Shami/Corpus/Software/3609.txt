@@ -1,0 +1,7 @@
+   SuperMemo (de Super Memory ) est une méthode d' apprentissage et un
+   logiciel développé en Pologne de 1985 à nos jours. Il s'agit d'une
+   application pratique de la répétition espacée proposée par un certain
+   nombre de psychologues dès les années 1930 pour un enseignement
+   efficace [1] .
+   Développé par Environnement Type Licence Site web
+

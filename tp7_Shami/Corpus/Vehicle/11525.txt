@@ -1,0 +1,15 @@
+   Le Lockheed L-188 Electra est un avion de ligne à turbopropulseurs
+   construit aux États-Unis . Son premier vol a lieu en 1957 . Il
+   rencontre d'abord le succès, mais les ventes s'effondrent après deux
+   accidents qui nécessitent d'importantes et très onéreuses
+   modifications, ce qui met fin à sa carrière commerciale, d'autant que
+   les moteurs à réaction s'imposent dans l'aviation au détriment des
+   turbopropulseurs. La production s’arrête dès 1961 après seulement
+   170 exemplaires construits, les appareils restants étant graduellement
+   convertis par la suite en avions de fret ou pour des usages militaires.
+   Rôle Constructeur Équipage Premier vol Mise en service Retrait
+   Production En service Variantes Dimensions Longueur Envergure Hauteur
+   Masse et capacité d'emport Max. à vide Max. au décollage Passagers
+   Motorisation Moteurs Performances Vitesse de croisière maximale Vitesse
+   maximale Autonomie Plafond
+

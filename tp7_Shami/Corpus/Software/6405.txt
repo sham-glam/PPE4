@@ -1,0 +1,7 @@
+   KDE Telepathy (ou KTP ) est un framework destiné aux communications
+   pour l' environnement de bureau libre KDE . Son but est d'intégrer tous
+   les protocoles de communication : XMPP ( Google Talk , Facebook ), MSN
+   , AIM , etc. Son développement est fondé sur Telepathy .
+   Dernière version Écrit en Interface Système d'exploitation
+   Environnement Type Licence Site web
+

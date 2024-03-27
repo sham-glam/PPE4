@@ -1,0 +1,6 @@
+   Rick Dangerous 2 est un jeu de plateforme développé par Core Design
+   pour les PC basés sur Amiga, Atari ST, Amstrad CPC, ZX Spectrum,
+   Commodore 64 et MS-DOS. Il est sorti en 1990 et publié par Micro Style
+   comme une suite de Rick Dangerous .
+   Développeur Éditeur Date de sortie Genre Mode de jeu Plateforme
+

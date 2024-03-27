@@ -1,0 +1,31 @@
+   Les contractions haustrales sont des contractions musculaires
+   involontaires du côlon ( péristaltisme ). Elles se produisent
+   localement, au niveau d'une haustration , lorsque celle-ci est remplie
+   de matière fécale , ce qui a pour effet de pousser son contenu vers la
+   haustration suivante.
+
+   En mathématiques appliquées , la méthode des contractions hiérarchiques
+   est une technique destinée à réduire le temps de calcul du plus court
+   chemin grâce à la construction d'une représentation dite "contractée"
+   du graphe initial sur laquelle sont exécutés des algorithmes adaptés
+   aux recherches sur structure multi-niveaux. Les temps de calcul
+   d’itinéraire issus de cette méthode peuvent être drastiquement plus
+   rapides que l'algorithme de Dijkstra et surpasser de plus anciennes
+   méthodes d'optimisation telles que les Highway Hierarchies. Elle a été
+   proposée en 2008 par Robert Geisberger, Peter Sanders, Dominik
+   Schultes, et Daniel Delling de l’université Karlsruhe Institute of
+   Technology d’Allemagne [1]  [2] . Comme Dijkstra, cette méthode peut
+   permettre au sein d’un graphe routier, la récupération d’un plus court
+   chemin comme la récupération de zones de chalandise.
+
+   Une contraction utérine affecte les muscles qui composent l' utérus et
+   qui, associée à d'autres, doit aboutir à l' accouchement .
+
+   La contraction de Braxton Hicks (ou abusivement fausse contraction )
+   est une contraction isolée de l' utérus qui survient à partir de la
+   sixième semaine de grossesse , quoique la plupart des femmes la
+   ressentent seulement à partir du deuxième ou du troisième trimestre de
+   leur grossesse. Elle prépare le corps à l' accouchement , sans
+   entraîner de dilatation du col de l'utérus , contrairement aux
+   contractions utérines du travail .
+

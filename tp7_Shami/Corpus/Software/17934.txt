@@ -1,0 +1,7 @@
+   OpenVMS ( Open Virtual Memory System ) anciennement VAX-11/VMS ,
+   VAX/VMS ou (officieusement) VMS est un système d'exploitation
+   propriétaire créé par DEC en 1977 pour ses ordinateurs VAX . Le système
+   a depuis été porté sur les processeurs DEC Alpha , et enfin Itanium .
+   Langues Plates-formes Entreprise /
+   Développeur Licence Première version Dernière version stable Site web
+

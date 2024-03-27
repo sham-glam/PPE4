@@ -1,0 +1,28 @@
+   La voix sur IP [1] , ou « VoIP » pour « Voice over IP », est une
+   technologie informatique qui permet de transmettre la voix sur des
+   réseaux compatibles IP , via Internet ou des réseaux privés ( intranets
+   ) ou publics, qu'ils soient filaires ( câble / ADSL / fibre optique )
+   ou non ( satellite , Wi-Fi et réseaux mobiles ).
+
+   Voice over IP est un terme anglais décrivant le transport de la voix
+   sur réseau IP . Au contraire des téléphones analogiques filaires ( RTC
+   ) dépendants de centraux téléphoniques dédiés, la voix sur IP permet le
+   transport de conversations téléphoniques sur tout réseau numérique ou
+   analogique acceptant le protocole TCP/ IP (Ethernet, RNIS, PPP, etc). À
+   l'aide de codecs audio, la voix est transformée et compressée en
+   données numériques. Ces dernières sont ensuite acheminées jusqu'au
+   destinataire dans de simples paquets TCP/IP, comme le seraient
+   n'importe quelles données Web transitant sur Internet.
+
+   Cet article fournit une liste des logiciels de voix sur IP ,
+   c'est-à-dire de logiciels qui permettent de communiquer par la voix sur
+   des réseaux compatibles IP , qu'il s'agisse de réseaux privés ou d'
+   Internet .
+
+   L' Alliance pour la sécurité de la Voix sur IP ( VOIPSA pour Voice over
+   IP Security Alliance) fut lancé au début de l'année 2005 pour favoriser
+   la rencontre des vendeurs, des fournisseurs et des leaders d'opinion
+   dans le domaine de la Voix sur IP et de la Sécurité informatique , afin
+   de résoudre les menaces actuelles et émergentes contre cette
+   technologie. La mission que cette alliance s'est donné est :
+

@@ -1,0 +1,17 @@
+   PostScript est un langage de description de page mis au point par Adobe
+   [1]  [2] . Il repose sur des formulations vectorielles de la plupart
+   de ses éléments. Il sait aussi traiter les images matricielles (point
+   par point).
+   Date de première version Paradigme Développeur Dernière version Typage
+   Influencé par A influencé Implémentations Extension de fichier
+   Extension Type MIME PUID Développé par Type de format Origine de
+
+   Une extension concerne la suite de logiciels de la société Mozilla et
+   principalement son navigateur Web phare : Mozilla Firefox .
+
+   Le gène MC1R (en anglais : M elano C ortin 1 R eceptor ; en français :
+   Récepteur de la mélanocortine de type 1), ou Extension , est un gène
+   déterminant la couleur de peau , la couleur des cheveux , la couleur
+   des poils , la couleur des plumes et la couleur des écailles chez les
+   vertébrés [1] .
+

@@ -1,0 +1,31 @@
+   Dans un système informatique , un firmware (ou micrologiciel [1] ,
+   microprogramme [1]  [2] , microcode , logiciel interne ou encore
+   logiciel embarqué ) est un programme intégré dans un matériel
+   informatique ( ordinateur , photocopieur , automate ( API , APS ),
+   disque dur , routeur , appareil photo numérique , etc.) pour qu'il
+   puisse fonctionner.
+
+   L' Open Firmware, originellement développé par Sun Microsystems , est
+   un firmware (micro logiciel informatique) qui permet de charger le
+   système d'exploitation indépendamment du type d'ordinateur utilisé. Ce
+   firmware est utilisé notamment dans les anciens Macintosh à base de
+   PowerPC , dans les stations de travail et serveurs à base de
+   processeurs SPARC de Sun Microsystems, et dans des machines Pegasos
+   PPC. Sur ce type de machine l' Open Firmware remplit plus ou moins les
+   mêmes fonctions que le BIOS des PCs .
+
+   Le Logiciel système des Nintendo DSi et 3DS est un ensemble de mises à
+   jour de la version du firmware qu'ont subi la Nintendo DSi (XL) et la
+   (New) Nintendo 3DS (XL). Ces mises à jour, qui sont téléchargeables via
+   la connexion Internet (et, pour la Nintendo 3DS, également disponibles
+   sur les cartouches de jeu), permettent à Nintendo d'ajouter ou de
+   supprimer des logiciels et des données. Chaque mise à jour comprend
+   aussi les données des mises à jour précédentes au cas où elles
+   n'auraient pas été téléchargées.
+
+   Le standard UEFI (de l’anglais Unified Extensible Firmware Interface ,
+   signifiant en français : « Interface micrologicielle extensible unifiée
+   » ) définit une interface entre le micrologiciel ( firmware ) et le
+   système d'exploitation (OS) d'un ordinateur . Cette interface succède
+   sur certaines cartes-mères au BIOS .
+

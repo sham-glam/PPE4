@@ -1,0 +1,20 @@
+   Un logiciel libre est un logiciel dont l'utilisation, l'étude, la
+   modification et la duplication par autrui en vue de sa diffusion sont
+   permises, techniquement et juridiquement [1] , ceci afin de garantir
+   certaines libertés induites, dont le contrôle du programme par
+   l'utilisateur et la possibilité de partage entre individus [2] .
+
+   Un logiciel libre est un logiciel dont l'utilisation, l'étude, la
+   modification et la duplication par autrui en vue de sa diffusion sont
+   permises, techniquement et juridiquement [1] , ceci afin de garantir
+   certaines libertés induites, dont le contrôle du programme par
+   l'utilisateur et la possibilité de partage entre individus [2] .
+
+   Cette page regroupe les logiciels libres médicaux, à ne pas confondre
+   avec des logiciels gratuits ( freeware ou gratuiciel ) mais non libres
+   (non open source).
+
+   Les logiciels libres présents sur cette page le sont selon la
+   définition de l'article « logiciel libre ». La plupart des programmes
+   cités ici sont disponibles sous licence GNU GPL ou BSD .
+

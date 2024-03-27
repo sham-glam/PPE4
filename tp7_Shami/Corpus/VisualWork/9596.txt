@@ -1,0 +1,19 @@
+   L' Antarctic Muon and Neutrino Detector Array (AMANDA, Réseau
+   antarctique de détecteurs de muons et de neutrinos ) est un
+   observatoire de neutrinos situé sous le pôle Sud . Il est incorporé au
+   projet IceCube en 2010.
+   Type Site web Adresse
+
+   (725) Amanda est un astéroïde de la ceinture principale découvert le 21
+   octobre 1911 par l' astronome autrichien Johann Palisa . Sa désignation
+   provisoire était 1911 ND.
+   Demi-grand axe ( a ) Périhélie ( q ) Aphélie ( Q ) Excentricité ( e )
+   Période de révolution ( P [rév ]) Inclinaison ( i ) Longitude du nœud
+   ascendant ( Ω ) Argument du périhélie ( ω ) Anomalie moyenne ( M [0 ])
+   Catégorie Magnitude absolue ( H ) Date Découvert par Lieu Désignation
+
+   AMANDA (Advanced Maryland Automatic Network Disk Archiver) est un
+   logiciel libre de sauvegardes informatiques.
+   Créateur Développé par Dernière version Dépôt Écrit en Système
+   d'exploitation Type Licence Site web
+

@@ -1,0 +1,9 @@
+   L ' aéroport de Denizli-Çardak ou Aéroport de Çardak code IATA : DNZ •
+   code OACI : LTAY , est un aéroport civile et militaire situé à Çardak
+   dans la province de Denizli en Turquie .
+   Construit en 1991 , l'aéroport est doté d'une surface de 16 890 m ^2 ,
+   est d'une capacité annuelle de 2 200 000 passagers .
+   Localisation Pays Ville Coordonnées Superficie Altitude Informations
+   aéronautiques Code IATA Code OACI Type d'aéroport Gestionnaire Site web
+   aéroport Pistes Direction Longueur Surface
+

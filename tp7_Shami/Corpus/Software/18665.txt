@@ -1,0 +1,15 @@
+   Un programme d'échecs est un programme informatique conçu pour jouer au
+   jeu d' échecs .
+
+   Un programme d'échecs est un programme informatique conçu pour jouer au
+   jeu d' échecs .
+
+   Chess est l'un des premiers programmes d'échecs . Créé dans les années
+   1970 par Larry Atkin et David Slate à l' université Northwestern ,
+   Chess tourne sur les superordinateurs de Control Data Corporation .
+
+   Crafty est un programme d'échecs écrit par le programmeur Robert Hyatt
+   (en) . Son prédécesseur est Cray Blitz , le gagnant des éditions 1983
+   et 1986 du championnat du monde d'échecs des ordinateurs (WCCC).
+   Développé par Écrit en Type Site web
+

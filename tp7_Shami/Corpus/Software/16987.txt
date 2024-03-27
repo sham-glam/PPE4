@@ -1,0 +1,18 @@
+   KIO ( K DE I nput/ O utput soit KDE Entrées-sorties ) est un composant
+   de KDE . Il permet d'accéder à n'importe quelle ressource accessible
+   par un chemin ou une URI au moyen d'une API . Les applications KDE
+   utilisant cette API peuvent alors utiliser ces ressources (fichiers sur
+   support amovibles, pages web , fichiers sur serveur FTP, etc.) de
+   manière transparente, comme si la ressource était un fichier local sur
+   l'ordinateur.
+
+   KIO est un sigle qui peut désigner :
+
+   Kiō ( 棋王 ) est l'un des huit tournois majeur shōgi professionnel
+   japonais. Le mot signifie que le roi de shōgi (ki(棋) = shogi, ō(王) =
+   roi).
+
+   Kiō ( 棋王 ) est l'un des huit tournois majeur shōgi professionnel
+   japonais. Le mot signifie que le roi de shōgi (ki(棋) = shogi, ō(王) =
+   roi).
+

@@ -1,0 +1,64 @@
+   MS-DOS (abréviation de M icro s oft D isk O perating S ystem ) est le
+   système d'exploitation de type DOS développé par Microsoft pour l' IBM
+   PC d'abord, puis pour les compatibles PC . Il s'agit d'un système
+   fonctionnant en mode réel , monotâche et mono-utilisateur , et équipé
+   par défaut d'une interface en ligne de commande . Des années 1980 au
+   début des années 1990, il a été le système le plus utilisé sur
+   compatible PC, avant d'être progressivement remplacé par des systèmes
+   d'exploitation plus évolués, notamment Windows . Son développement est
+   maintenant arrêté. Il est encore présent sur les ordinateurs modernes
+   fonctionnant sous Windows via l' invite de commande .
+   Famille Langues Type de noyau État du projet Dépôt Plates-formes
+   Entreprise /
+   Développeur Licence États des sources Écrit en Première version
+   Dernière version stable Environnement de bureau Gestionnaire de paquets
+   Site web
+
+   MS-DOS (abréviation de M icro s oft D isk O perating S ystem ) est le
+   système d'exploitation de type DOS développé par Microsoft pour l' IBM
+   PC d'abord, puis pour les compatibles PC . Il s'agit d'un système
+   fonctionnant en mode réel , monotâche et mono-utilisateur , et équipé
+   par défaut d'une interface en ligne de commande . Des années 1980 au
+   début des années 1990, il a été le système le plus utilisé sur
+   compatible PC, avant d'être progressivement remplacé par des systèmes
+   d'exploitation plus évolués, notamment Windows . Son développement est
+   maintenant arrêté. Il est encore présent sur les ordinateurs modernes
+   fonctionnant sous Windows via l' invite de commande .
+   Famille Langues Type de noyau État du projet Dépôt Plates-formes
+   Entreprise /
+   Développeur Licence États des sources Écrit en Première version
+   Dernière version stable Environnement de bureau Gestionnaire de paquets
+   Site web
+
+   MS-DOS (abréviation de M icro s oft D isk O perating S ystem ) est le
+   système d'exploitation de type DOS développé par Microsoft pour l' IBM
+   PC d'abord, puis pour les compatibles PC . Il s'agit d'un système
+   fonctionnant en mode réel , monotâche et mono-utilisateur , et équipé
+   par défaut d'une interface en ligne de commande . Des années 1980 au
+   début des années 1990, il a été le système le plus utilisé sur
+   compatible PC, avant d'être progressivement remplacé par des systèmes
+   d'exploitation plus évolués, notamment Windows . Son développement est
+   maintenant arrêté. Il est encore présent sur les ordinateurs modernes
+   fonctionnant sous Windows via l' invite de commande .
+   Famille Langues Type de noyau État du projet Dépôt Plates-formes
+   Entreprise /
+   Développeur Licence États des sources Écrit en Première version
+   Dernière version stable Environnement de bureau Gestionnaire de paquets
+   Site web
+
+   MS-DOS (abréviation de M icro s oft D isk O perating S ystem ) est le
+   système d'exploitation de type DOS développé par Microsoft pour l' IBM
+   PC d'abord, puis pour les compatibles PC . Il s'agit d'un système
+   fonctionnant en mode réel , monotâche et mono-utilisateur , et équipé
+   par défaut d'une interface en ligne de commande . Des années 1980 au
+   début des années 1990, il a été le système le plus utilisé sur
+   compatible PC, avant d'être progressivement remplacé par des systèmes
+   d'exploitation plus évolués, notamment Windows . Son développement est
+   maintenant arrêté. Il est encore présent sur les ordinateurs modernes
+   fonctionnant sous Windows via l' invite de commande .
+   Famille Langues Type de noyau État du projet Dépôt Plates-formes
+   Entreprise /
+   Développeur Licence États des sources Écrit en Première version
+   Dernière version stable Environnement de bureau Gestionnaire de paquets
+   Site web
+

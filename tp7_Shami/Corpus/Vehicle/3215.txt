@@ -1,0 +1,8 @@
+   Les CC 40100 sont une série de dix locomotives électriques bi-courant
+   quadritension de la SNCF . Elles ont été livrées en deux phases, les
+   quatre premières en 1964 , les six dernières en 1969 - 1970 .
+   Exploitant(s) Désignation Surnom Type Construction Constructeur(s)
+   Retrait Diffusion Affectation Disposition des essieux Écartement
+   Captage Tension ligne de contact Moteurs de traction Puissance continue
+   Masse totale Longueur totale Vitesse maximale
+

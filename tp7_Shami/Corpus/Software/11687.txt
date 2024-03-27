@@ -1,0 +1,22 @@
+   Windows Server 2008 R2 est le système d'exploitation de Microsoft qui
+   succède à Windows Server 2008 . C'est la version serveur de Windows 7 ,
+   dont il partage le noyau, Windows NT 6.1. C'est la première version
+   serveur de Windows à être publiée le même jour que sa version client
+   depuis Windows 2000 Server ( Windows Server 2003 et 2008 ayant été
+   commercialisés bien après Windows XP et Windows Vista , leurs bases
+   respectives.).
+   Famille Type de noyau État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Méthode de mise à jour Environnement de bureau Site web
+
+   Windows Server 2008 R2 est le système d'exploitation de Microsoft qui
+   succède à Windows Server 2008 . C'est la version serveur de Windows 7 ,
+   dont il partage le noyau, Windows NT 6.1. C'est la première version
+   serveur de Windows à être publiée le même jour que sa version client
+   depuis Windows 2000 Server ( Windows Server 2003 et 2008 ayant été
+   commercialisés bien après Windows XP et Windows Vista , leurs bases
+   respectives.).
+   Famille Type de noyau État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Méthode de mise à jour Environnement de bureau Site web
+

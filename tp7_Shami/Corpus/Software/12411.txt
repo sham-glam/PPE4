@@ -1,0 +1,40 @@
+   Debian ( /ˈde.bi.ən/ ) (également connu sous le nom Debian GNU/Linux)
+   est un système d’exploitation Linux [3] composée exclusivement de
+   logiciels libres , développé par le Debian Project, organisation
+   communautaire qui fut fondée par Ian Murdock le 16 août 1993 . La
+   première version de Debian sort le 15 septembre 1993 et la première
+   version stable le 17 juin 1996 .
+   Famille Langues Type de noyau État du projet Dépôt Plates-formes
+   Entreprise /
+   Fondateur Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Dernière version avancée Méthode de mise à jour Gestionnaire de
+   paquets Site web
+
+   Le système de commande Debian est une interface en ligne de commande du
+   système d'exploitation Debian , similaire à celui des distributions
+   Linux et Unix [1] . Il offre aussi bien aux débutants qu'aux experts
+   des commandes similaires à MS-DOS , mais plus puissantes [2] .
+
+   Debian ( /ˈde.bi.ən/ ) (également connu sous le nom Debian GNU/Linux)
+   est un système d’exploitation Linux [3] composée exclusivement de
+   logiciels libres , développé par le Debian Project, organisation
+   communautaire qui fut fondée par Ian Murdock le 16 août 1993 . La
+   première version de Debian sort le 15 septembre 1993 et la première
+   version stable le 17 juin 1996 .
+   Famille Langues Type de noyau État du projet Dépôt Plates-formes
+   Entreprise /
+   Fondateur Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Dernière version avancée Méthode de mise à jour Gestionnaire de
+   paquets Site web
+
+   Skolelinux , également nommé Debian Edu , est un projet open source
+   créé par des développeurs de la distribution GNU/Linux Debian , repris
+   depuis lors par une équipe norvégienne. Cette distribution peut-être
+   utilisée pour installer un serveur ou un poste de travail, et fournit
+   un ensemble de logiciels pour les écoles — basé sur leurs besoins et
+   leurs ressources.
+   Famille Type de noyau État du projet Licence Première version Dernière
+   version stable Environnement de bureau Site web
+

@@ -1,0 +1,24 @@
+   Usenet est un système en réseau de forums , inventé en 1979 , lancé
+   publiquement en 1980 à l’université de Caroline du Nord à Chapel Hill
+   et l'université Duke [1]  [2] , et ceci une décennie avant l’arrivée
+   du web. Pour fonctionner dans un environnement Unix , il utilise alors
+   le protocole UUCP . Il devient accessible depuis Internet grâce à
+   l'utilisation du protocole NNTP . Il est encore régulièrement utilisé
+   au XXI ^e siècle .
+
+   Usenet est un système en réseau de forums , inventé en 1979 , lancé
+   publiquement en 1980 à l’université de Caroline du Nord à Chapel Hill
+   et l'université Duke [1]  [2] , et ceci une décennie avant l’arrivée
+   du web. Pour fonctionner dans un environnement Unix , il utilise alors
+   le protocole UUCP . Il devient accessible depuis Internet grâce à
+   l'utilisation du protocole NNTP . Il est encore régulièrement utilisé
+   au XXI ^e siècle .
+
+   Un faux-nez est un objet imitant un nez , porté en déguisement par un
+   clown ou pour des raisons esthétiques par un mutilé du visage.
+
+   L’ Internet Oracle (autrefois Usenet Oracle ) est un service à vocation
+   plus ou moins humoristique créé en 1989 et toujours en activité, ce qui
+   en fait un des plus anciens services du réseau Internet et un pilier de
+   la culture geek .
+

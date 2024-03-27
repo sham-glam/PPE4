@@ -1,0 +1,17 @@
+   LaTeX (dont le logo est L A T E X ) est un langage et un système de
+   composition de documents. Il s'agit d'une collection de macro-commandes
+   destinées à faciliter l'utilisation du « processeur de texte » TeX de
+   Donald Knuth .
+   Développé par Première version Dernière version Dépôt Écrit en Système
+   d'exploitation Type Licence Documentation Site web
+
+   AMS-LaTeX est une collection de classes et de paquets LaTeX [1]
+   développés pour l' American Mathematical Society (AMS).
+
+   Le latex est une substance liquide, à consistance plus ou moins
+   épaisse, sécrétée par certaines plantes ou par certains champignons
+   (notamment les lactaires ) et circulant dans les canaux laticifères .
+   Il contient de nombreux composés toxiques et anti-appétents qui
+   dissuadent les organismes qui les attaquent , servant de défense contre
+   les herbivores et les pathogènes .
+

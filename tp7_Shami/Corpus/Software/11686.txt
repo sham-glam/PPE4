@@ -1,0 +1,13 @@
+   GNOME Shell (distribué sous licence libre GNU GPL ) est le cœur de l'
+   interface graphique de l’environnement de bureau GNOME à partir de sa
+   version 3.0. Il sert à la fois de tableau de bord , de zone de
+   notification et de sélecteur de fenêtres. À son lancement, GNOME Shell
+   reçut un accueil mitigé par la communauté ; toutefois, la mise en ligne
+   du répertoire d'extensions, permettant de personnaliser l'interface, a
+   atténué les critiques [16] . Aujourd'hui, les améliorations apportées
+   aux versions successives de GNOME Shell ont permis de reconquérir de
+   nombreux utilisateurs et non des moindres [17] .
+   Développé par Première version Dernière version Version avancée Dépôt
+   Écrit en Interface Système d'exploitation Environnement Type Licence
+   Site web
+

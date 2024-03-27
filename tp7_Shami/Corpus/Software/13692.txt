@@ -1,0 +1,26 @@
+   Perl peut désigner :
+
+   Perl peut désigner :
+
+   Perl [2] est un langage de programmation créé par Larry Wall en 1987
+   pour traiter facilement de l'information de type textuel . Ce langage,
+   interprété , s'inspire des structures de contrôle et d'impression du
+   langage C , mais aussi de langages de scripts sed , awk et shell ( sh
+   ).
+   Date de première version Paradigmes Auteur Développeurs Dernière
+   version Typage Influencé par A influencé Implémentations Écrit en
+   Système d'exploitation Licences Site web Extension de fichier
+
+   Raku (anciennement Perl 6 ) est la sixième version majeure du langage
+   de programmation Perl . Il s'agit aussi d'une refonte profonde du
+   langage, aussi bien dans sa conception que dans son implémentation,
+   rompant avec l'exigence de rétrocompatibilité qui avait primé pour les
+   versions majeures précédentes, bien qu'un mode de compatibilité avec
+   les versions antérieures soit prévu dans les spécifications. Le nom
+   Raku [3] a été choisi comme « nom de scène » par Larry Wall pour
+   satisfaire les partisans de Perl 5 et marquer ainsi que Perl 6 n’est
+   pas qu’une simple version majeure de Perl qui rendrait Perl 5 caduc.
+   Date de première version Paradigmes Auteur Développeurs Dernière
+   version Typage Influencé par A influencé Implémentations Écrit en
+   Système d'exploitation Licence Site web Extension de fichier
+

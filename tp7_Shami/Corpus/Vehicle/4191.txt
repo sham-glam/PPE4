@@ -1,0 +1,14 @@
+   La classe Clemenceau (projet PA 54) est une classe de porte-avions qui
+   a servi dans la Marine Française à partir de 1961 et jusqu'en 2000 ; un
+   de ses deux représentants est resté en service actif jusqu'en 2017 dans
+   la Marine Brésilienne sous le nom de São Paulo . Les Clemenceau furent
+   la première classe de porte-avions de conception française après la
+   seconde guerre mondiale . Elle a été l'épine dorsale de la Marine
+   nationale pendant ses quarante années de service.
+   Caractéristiques techniques Type Longueur Maître-bau Tirant d'eau
+   Tirant d'air Déplacement Propulsion Puissance Vitesse Caractéristiques
+   militaires Armement Aéronefs Rayon d’action Autres caractéristiques
+   Électronique Équipage Histoire Constructeurs A servi dans Commanditaire
+   Période de service Navires construits Navires prévus Navires annulés
+   Navires désarmés Navires démolis
+

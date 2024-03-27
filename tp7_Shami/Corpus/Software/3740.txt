@@ -1,0 +1,18 @@
+   GNU Emacs est l’une des deux versions les plus populaires de l’ éditeur
+   de texte Emacs (l’autre version est XEmacs ). Ces deux versions sont
+   majoritairement compatibles et ont de très nombreux points communs,
+   décrits dans l’article Emacs .
+   Créateur Développé par Première version Dernière version Dépôt Écrit en
+   Interface Système d'exploitation Type Licence Documentation Site web
+
+   Emacs est une famille d' éditeurs de texte disposant d'un ensemble
+   extensible de fonctionnalités. Il est populaire ^[ réf. souhaitée]
+   parmi les programmeurs et plus généralement les personnes ayant des
+   compétences techniques sur les ordinateurs.
+
+   Barry's Emacs est un éditeur de texte de la famille Emacs , d'abord
+   basé sur Gosling Emacs puis sur Unipress Emacs , et développé par Barry
+   Scott
+   Développé par Première version Dernière version Version avancée Écrit
+   en Système d'exploitation Environnement Type Licence Site web
+

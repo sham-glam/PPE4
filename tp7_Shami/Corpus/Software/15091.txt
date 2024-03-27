@@ -1,0 +1,8 @@
+   Gwibber est un client de microblogage multi-services prévu pour GNOME .
+   Il est distribué sous licence libre GNU GPL .
+   Développé par Première version Dernière version Version avancée Dépôt
+   Écrit en Interface Système d'exploitation Environnement Langues Type
+   Licence Site web Services Version 1 Version 2 Twitter identi.ca /
+   StatusNet Facebook Flickr Digg FriendFeed (en) (en) OCS (en) (en) (en)
+   flux RSS / Atom Google Reader Pidgin
+

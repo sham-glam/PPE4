@@ -1,0 +1,10 @@
+   La classe Yorktown , est une classe de porte-avions de l ' US Navy
+   construits à partir de l'année 1934, jusqu'en 1941.
+   Caractéristiques techniques Type Longueur Maître-bau Tirant d'eau
+   Déplacement Port en lourd Propulsion Puissance Vitesse Caractéristiques
+   militaires Blindage Armement Aéronefs Rayon d’action Autres
+   caractéristiques Équipage Histoire Constructeurs A servi dans
+   Commanditaire Date début commande Période de
+   construction Période de service Navires construits Navires prévus
+   Navires perdus Navires démolis
+

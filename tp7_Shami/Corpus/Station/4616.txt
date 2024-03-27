@@ -1,0 +1,10 @@
+   L’ aérodrome d’Ussel - Thalamy (code OACI : LFCU ) est un aérodrome
+   ouvert à la circulation aérienne publique (CAP) [1] , situé sur les
+   communes de Saint-Exupéry-les-Roches et de Saint-Bonnet-près-Bort à 8
+   km à l’est-sud-est d’ Ussel dans la Corrèze en région
+   Nouvelle-Aquitaine .
+   Localisation Pays Département Ville Date d'ouverture Coordonnées
+   Superficie Altitude Informations aéronautiques Code OACI Nom
+   cartographique Type d'aéroport Gestionnaire Site web gestionnaire Site
+   web aéroport Pistes Direction Longueur Surface
+

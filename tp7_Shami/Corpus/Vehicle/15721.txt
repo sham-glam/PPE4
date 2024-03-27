@@ -1,0 +1,24 @@
+   D'une manière générale, le mot fusion venant du latin fusio et du verbe
+   fundere signifie fondre, comme on le voit sur l'animation. Mais on
+   extrait deux notions distinctes de ce mécanisme :
+
+   AMD Fusion est une marque du fabricant AMD regroupant plusieurs
+   microarchitectures d'APU ( Accelerated Processing Unit ) qui se
+   caractérise par l'implantation d'un cœur graphique Radeon avec le
+   processeur et le northbridge au sein d'un même conditionnement.
+
+   AMD Fusion est une marque du fabricant AMD regroupant plusieurs
+   microarchitectures d'APU ( Accelerated Processing Unit ) qui se
+   caractérise par l'implantation d'un cœur graphique Radeon avec le
+   processeur et le northbridge au sein d'un même conditionnement.
+
+   Compiz est un gestionnaire de fenêtres composite libre qui a
+   révolutionné l'environnement de bureau du serveur X , et notamment sur
+   les distributions Linux . Compiz permet des effets graphiques avancés
+   comme la transparence, des effets 3D et d'ombres. Compiz compose
+   l’affichage en exploitant l' accélération matérielle disponible sur la
+   carte graphique .
+   Développé par Première version Dernière version Dépôt Écrit en
+   Interface Système d'exploitation Environnement Langues Type Politique
+   de distribution Licence Site web
+

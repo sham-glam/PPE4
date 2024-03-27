@@ -1,0 +1,35 @@
+   Linux ou GNU/Linux est une famille de systèmes d'exploitation open
+   source de type Unix fondé sur le noyau Linux , créé en 1991 par Linus
+   Torvalds . De nombreuses distributions Linux ont depuis vu le jour et
+   constituent un important vecteur de popularisation du mouvement du
+   logiciel libre .
+   Famille Langues Type de noyau État du projet Plates-formes Entreprise /
+   Fondateur Entreprise /
+   Développeur Licence Écrit en Première version Environnement de bureau
+   Gestionnaire de paquets Site web
+
+   Linux ou GNU/Linux est une famille de systèmes d'exploitation open
+   source de type Unix fondé sur le noyau Linux , créé en 1991 par Linus
+   Torvalds . De nombreuses distributions Linux ont depuis vu le jour et
+   constituent un important vecteur de popularisation du mouvement du
+   logiciel libre .
+   Famille Langues Type de noyau État du projet Plates-formes Entreprise /
+   Fondateur Entreprise /
+   Développeur Licence Écrit en Première version Environnement de bureau
+   Gestionnaire de paquets Site web
+
+   (9885) Linux est un astéroïde de la ceinture principale découvert le 12
+   octobre 1994 par le programme Spacewatch à l' observatoire de Kitt Peak
+   . Il doit son nom au noyau de système d'exploitation Linux , développé
+   par Linus Torvalds , informaticien finlandais .
+   Demi-grand axe ( a ) Périhélie ( q ) Aphélie ( Q ) Excentricité ( e )
+   Période de révolution ( P [rév ]) Vitesse orbitale moyenne ( v [orb ])
+   Inclinaison ( i ) Longitude du nœud ascendant ( Ω ) Argument du
+   périhélie ( ω ) Anomalie moyenne ( M [0 ]) Catégorie Magnitude absolue
+   ( H ) Température ( T ) Date Découvert par Désignation
+
+   Alien est une commande UNIX qui réalise la conversion entre différents
+   formats de paquet , notamment entre le RPM de Red Hat , le deb de
+   Debian et le PKG (en) utilisé par Solaris (l'unix de Sun Microsystems
+   ).
+

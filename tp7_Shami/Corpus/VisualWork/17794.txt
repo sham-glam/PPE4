@@ -1,0 +1,7 @@
+   Star Tours : L'Aventure continue
+   Autre(s) nom(s) Localisation Parc Zone Lieu Coordonnées Ouverture Parc
+   Zone Lieu Coordonnées Ouverture Parc Zone Lieu Coordonnées Ouverture
+   Parc Zone Lieu Coordonnées Ouverture Données techniques Concepteur(s)
+   Type Taille minimale
+   requise pour l'accès
+

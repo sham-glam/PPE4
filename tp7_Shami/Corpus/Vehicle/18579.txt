@@ -1,0 +1,11 @@
+   La classe Canopus est une classe de cuirassés de type Pré-Dreadnought
+   de deuxième classe construite pour la Royal Navy avant la fin du XIX ^e
+   siècle .
+   Caractéristiques techniques Type Longueur Maître-bau Tirant d'eau
+   Déplacement Port en lourd Propulsion Puissance Vitesse Caractéristiques
+   militaires Blindage Armement Aéronefs Rayon d’action Autres
+   caractéristiques Équipage Histoire Constructeurs Commanditaire Période
+   de
+   construction Période de service Navires construits Navires prévus
+   Navires perdus Navires démolis
+

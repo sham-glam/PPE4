@@ -1,0 +1,31 @@
+   Celestia est un simulateur spatial libre [2] permettant d'observer le
+   Système solaire et le reste de l' univers en temps réel, en 3D avec un
+   réalisme de qualité photographique. Il est utilisé à des fins
+   éducatives dans de nombreuses écoles et planétariums du monde. Celestia
+   est distribué gratuitement et s'exécute sur de nombreux systèmes
+   d'exploitation , dont Windows , Mac OS X , GNU/Linux .
+   Développé par Dernière version Dépôt Écrit en Interface Système
+   d'exploitation Formats lus Formats écrits Type Licence Site web
+
+   Celestia est un simulateur spatial libre [2] permettant d'observer le
+   Système solaire et le reste de l' univers en temps réel, en 3D avec un
+   réalisme de qualité photographique. Il est utilisé à des fins
+   éducatives dans de nombreuses écoles et planétariums du monde. Celestia
+   est distribué gratuitement et s'exécute sur de nombreux systèmes
+   d'exploitation , dont Windows , Mac OS X , GNU/Linux .
+   Développé par Dernière version Dépôt Écrit en Interface Système
+   d'exploitation Formats lus Formats écrits Type Licence Site web
+
+   (1252) Celestia est un astéroïde de la ceinture principale découvert le
+   19 février 1933 par Fred Lawrence Whipple .
+   Demi-grand axe ( a ) Périhélie ( q ) Aphélie ( Q ) Excentricité ( e )
+   Période de révolution ( P [rév ]) Inclinaison ( i ) Longitude du nœud
+   ascendant ( Ω ) Argument du périhélie ( ω ) Anomalie moyenne ( M [0 ])
+   Catégorie Dimensions Période de rotation ( P [rot ]) Magnitude absolue
+   ( H ) Albédo ( A ) Date Découvert par Nommé d'après Désignation
+
+   Celestia ( arabe : سلستيا ) est le nom de la bière sans alcool
+   tunisienne .
+   Généralités Brasseur Date de création Caractéristiques Type Degré
+   d'alcool Production Conditionnement
+

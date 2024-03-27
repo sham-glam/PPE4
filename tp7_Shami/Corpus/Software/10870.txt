@@ -1,0 +1,19 @@
+   Application peut désigner :
+
+   En informatique , une application web (aussi appelée web application ,
+   de l'anglais et français) est une application manipulable directement
+   en ligne grâce à un navigateur web et qui ne nécessite donc pas d'
+   installation sur les machines clientes , contrairement aux applications
+   mobiles [1] . De la même manière que les sites web , une application
+   web est généralement installée sur un serveur et se manipule en
+   actionnant des widgets à l'aide d'un navigateur web, via un réseau
+   informatique ( Internet , intranet , réseau local , etc.). Exemples :
+
+   En mathématiques , une application bilinéaire est un cas particulier d'
+   application multilinéaire .
+
+   Une application , un applicatif ou encore une appli , une app est, dans
+   le domaine informatique, un programme (ou un ensemble logiciel )
+   directement utilisé pour réaliser une tâche, ou un ensemble de tâches
+   élémentaires d'un même domaine ou formant un tout
+

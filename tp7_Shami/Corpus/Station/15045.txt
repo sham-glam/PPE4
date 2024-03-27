@@ -1,0 +1,36 @@
+   Cette page liste alphabétiquement les sites des héliports au Canada .
+   Ils sont classés dans l'ordre suivant ; le nom de l'aéroport nommé dans
+   le supplément de vol Canada (CFS), le code OACI , la communauté
+   desservie, la province et les coordonnées.
+   Endroit Quantité Nom OACI (IATA) Type Entretien Endroit Province
+   Territoire Coordonnés
+
+   Un héliport est uniquement utilisable par des hélicoptères , mais plus
+   grand qu'une simple plate-forme hélicoptère (ou hélisurface [1] ).
+   Seuls les hélicoptères peuvent s'y poser. Les héliports sont très
+   souvent reconnaissables grâce au "H" inscrit au milieu de la
+   plateforme. Il peut fournir des services tels approvisionnement en
+   carburants , éclairage, manche à air , mais ne dispose pas
+   nécessairement de hangars.
+
+   Un héliport est uniquement utilisable par des hélicoptères , mais plus
+   grand qu'une simple plate-forme hélicoptère (ou hélisurface [1] ).
+   Seuls les hélicoptères peuvent s'y poser. Les héliports sont très
+   souvent reconnaissables grâce au "H" inscrit au milieu de la
+   plateforme. Il peut fournir des services tels approvisionnement en
+   carburants , éclairage, manche à air , mais ne dispose pas
+   nécessairement de hangars.
+
+   La base des Forces canadiennes (BFC) Shearwater était une base des
+   Forces canadiennes située à Shearwater dans la municipalité régionale
+   de Halifax en Nouvelle-Écosse . Au milieu des années 1990, la base a
+   été renommée l' héliport Shearwater et rattachée à la BFC Halifax . La
+   12 ^e Escadre Shearwater est la principale unité occupant l'héliport.
+   L'escadre fait partie de l' Aviation royale du Canada et opère des
+   hélicoptères maritimes en support aux opérations des Forces maritimes
+   de l'Atlantique de la Marine royale canadienne .
+   Pays Type Rôle Allégeance Branche Localisation Pays Province Ville
+   Latitude
+   Longitude Informations aéronautiques Code AITA Code OACI Type
+   d'aéroport Gestionnaire Altitude
+

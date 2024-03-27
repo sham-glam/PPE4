@@ -1,0 +1,18 @@
+   Clip peut faire référence à :
+
+   CLIPS (C Language Integrated Production System) est un environnement et
+   un langage de programmation créés en 1985 , faisant partie du paradigme
+   des langages déclaratifs et logiques.
+   Date de première version Paradigme Auteur Dernière version Influencé
+   par Implémentations Écrit en Système d'exploitation Licence Site web
+
+   CLIPS (C Language Integrated Production System) est un environnement et
+   un langage de programmation créés en 1985 , faisant partie du paradigme
+   des langages déclaratifs et logiques.
+   Date de première version Paradigme Auteur Dernière version Influencé
+   par Implémentations Écrit en Système d'exploitation Licence Site web
+
+   Clips est une application de vidéo d’ Apple , sortie en 2017 pour les
+   appareils fonctionnant sous le système d'exploitation pour mobiles iOS
+   .
+

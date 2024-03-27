@@ -1,0 +1,31 @@
+   Le MANIAC (pour M athematical A nalyzer, N umerical I ntegrator, a nd C
+   omputer or M athematical A nalyzer, N umerator, I ntegrator, a nd C
+   omputer [1] , soit en français Analyseur mathématique, intégrateur
+   numérique et ordinateur) est un ordinateur primitif construit sous la
+   direction de Nicholas Metropolis au Laboratoire national de Los Alamos
+   . Il est basé sur l' Architecture de von Neumann de la machine IAS ,
+   mise au point par John von Neumann . Comme tous les ordinateurs de
+   cette époque, cette machine ne pouvait pas partager des programmes avec
+   d'autres machines (même des machines de type IAS). Metropolis a choisi
+   le nom de MANIAC en espérant arrêter l'apparition d'acronymes absurdes
+   [2] bien qu'il semble que von Neumann lui ait suggéré ce nom.
+
+   (228029) MANIAC est un astéroïde de la ceinture principale d'astéroïdes
+   .
+   Demi-grand axe ( a ) Périhélie ( q ) Aphélie ( Q ) Excentricité ( e )
+   Période de révolution ( P [rév ]) Inclinaison ( i ) Longitude du nœud
+   ascendant ( Ω ) Argument du périhélie ( ω ) Anomalie moyenne ( M [0 ])
+   Catégorie Magnitude absolue ( H ) Date Découvert par Lieu Désignation
+
+   Le MANIAC (pour M athematical A nalyzer, N umerical I ntegrator, a nd C
+   omputer or M athematical A nalyzer, N umerator, I ntegrator, a nd C
+   omputer [1] , soit en français Analyseur mathématique, intégrateur
+   numérique et ordinateur) est un ordinateur primitif construit sous la
+   direction de Nicholas Metropolis au Laboratoire national de Los Alamos
+   . Il est basé sur l' Architecture de von Neumann de la machine IAS ,
+   mise au point par John von Neumann . Comme tous les ordinateurs de
+   cette époque, cette machine ne pouvait pas partager des programmes avec
+   d'autres machines (même des machines de type IAS). Metropolis a choisi
+   le nom de MANIAC en espérant arrêter l'apparition d'acronymes absurdes
+   [2] bien qu'il semble que von Neumann lui ait suggéré ce nom.
+

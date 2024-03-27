@@ -1,0 +1,7 @@
+   Le SMS Berlin est un petit croiseur de la Kaiserliche Marine puis de la
+   Reichsmarine , appartenant à la classe Bremen .
+   Type Histoire A servi dans Chantier naval Lancement Armé Statut
+   Caractéristiques techniques Longueur Maître-bau Tirant d'eau
+   Déplacement Port en lourd Propulsion Puissance Vitesse Caractéristiques
+   militaires Blindage Armement Carrière Port d'attache Indicatif
+

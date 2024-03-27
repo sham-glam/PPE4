@@ -1,0 +1,28 @@
+   En sciences humaines et sociales , l'expression réseau social [1]
+   désigne un agencement de liens entre des individus ou des organisations
+   , constituant un groupement qui a un sens : la famille, les collègues,
+   un groupe d'amis, une communauté, etc.
+
+   diaspora* (initialement typographié DIASPORA*) désigne à la fois une
+   application web de réseau social , et le réseau social distribué sur
+   lequel repose sur cette application. Chaque utilisateur du réseau peut
+   choisir de s'inscrire sur un des serveurs (appelés pods ) diaspora*
+   déjà existants ou de créer le sien. Ce serveur forme ainsi, avec
+   l'ensemble des autres serveurs, la fédération diaspora*. Le logiciel
+   permettant de faire fonctionner des serveurs est distribuée sous
+   licence libre ( AGPL ).
+   Développé par Première version Dernière version Dépôt État du projet
+   Écrit en Type Politique de distribution Licence Site web
+
+   Gab est un service de réseautage social en ligne basé à Austin , au
+   Texas , créé pour servir d'alternative aux réseaux sociaux comme
+   Facebook , Twitter et Reddit .
+   Adresse Slogan Commercial Écrit en Publicité Type de site Langue
+   Inscription Nombre d'inscrits Propriétaire Directeur de la publication
+   Lancement État actuel
+
+   The Social Network ou Le Réseau social au Québec [1] est un film
+   américain réalisé par David Fincher et sorti en 2010 .
+   Titre québécois Réalisation Scénario Musique Acteurs principaux
+   Sociétés de production Pays de production Genre Durée Sortie
+

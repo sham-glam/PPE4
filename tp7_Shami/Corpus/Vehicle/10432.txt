@@ -1,0 +1,4 @@
+   Un navire furtif intègre des paramètres de furtivité dans sa
+   conception. Seul le radar de contre-furtivité permet de contrer cette
+   technique.
+

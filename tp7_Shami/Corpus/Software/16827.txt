@@ -1,0 +1,5 @@
+   SegaSonic the Hedgehog ( セガソニック・ザ・ヘッジホッグ ) est un jeu d'action en 3D
+   isométrique développé par Sega , sorti sur borne d'arcade en 1993 .
+   Développeur Éditeur Compositeur Date de sortie Franchise Genre Mode de
+   jeu Plateforme Langue
+

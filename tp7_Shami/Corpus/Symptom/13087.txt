@@ -1,0 +1,17 @@
+   Un syndrome est un ensemble de signes cliniques et de symptômes qu'un
+   patient est susceptible de présenter lors de certaines maladies , ou
+   bien dans des circonstances cliniques d'écart à la norme pas
+   nécessairement pathologiques.
+
+   Un syndrome est un ensemble de signes cliniques et de symptômes qu'un
+   patient est susceptible de présenter lors de certaines maladies , ou
+   bien dans des circonstances cliniques d'écart à la norme pas
+   nécessairement pathologiques.
+
+   Le syndrome 3C est l'association de :
+   Spécialité CIM - 10 OMIM MeSH
+
+   Le syndrome de Wolf-Hirschhorn est une maladie chromosomique associant
+   :
+   Spécialité CIM - 10 CIM - 9 OMIM DiseasesDB eMedicine MeSH Patient UK
+

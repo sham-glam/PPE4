@@ -1,0 +1,10 @@
+   La classe Tambor , est une classe de douze sous-marins d'attaque
+   conventionnels de l' US Navy construits entre 1939 et 1941 pour suivre
+   la classe Sargo et actifs entre 1940 et 1946.
+   Caractéristiques techniques Type Longueur Maître-bau Tirant d'eau
+   Déplacement Propulsion Puissance Vitesse Profondeur Caractéristiques
+   militaires Armement Rayon d’action Autres caractéristiques Équipage
+   Histoire Constructeurs A servi dans Commanditaire Période de
+   construction Période de service Navires construits Navires perdus
+   Navires désarmés
+

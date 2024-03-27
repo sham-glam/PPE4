@@ -1,0 +1,30 @@
+   Un moteur de wiki est un logiciel de la famille des systèmes de gestion
+   de contenu permettant de réaliser des wikis . C'est un logiciel
+   collaboratif qui a comme fonctionnalité spécifique la gestion d'un wiki
+   et de ses utilisateurs. Ceux-ci peuvent créer, modifier et gérer
+   collaborativement les pages et des entrées du wiki à l'aide d'un
+   navigateur web . Un système wiki est généralement une application web
+   qui fonctionne sur un ou plusieurs serveurs web . Le contenu, y compris
+   les révisions précédentes, est souvent stocké dans un système de
+   fichiers ou une base de données .
+
+   Un moteur de wiki est un logiciel de la famille des systèmes de gestion
+   de contenu permettant de réaliser des wikis . C'est un logiciel
+   collaboratif qui a comme fonctionnalité spécifique la gestion d'un wiki
+   et de ses utilisateurs. Ceux-ci peuvent créer, modifier et gérer
+   collaborativement les pages et des entrées du wiki à l'aide d'un
+   navigateur web . Un système wiki est généralement une application web
+   qui fonctionne sur un ou plusieurs serveurs web . Le contenu, y compris
+   les révisions précédentes, est souvent stocké dans un système de
+   fichiers ou une base de données .
+
+   Un moteur de wiki est un logiciel de la famille des systèmes de gestion
+   de contenu permettant de réaliser des wikis . C'est un logiciel
+   collaboratif qui a comme fonctionnalité spécifique la gestion d'un wiki
+   et de ses utilisateurs. Ceux-ci peuvent créer, modifier et gérer
+   collaborativement les pages et des entrées du wiki à l'aide d'un
+   navigateur web . Un système wiki est généralement une application web
+   qui fonctionne sur un ou plusieurs serveurs web . Le contenu, y compris
+   les révisions précédentes, est souvent stocké dans un système de
+   fichiers ou une base de données .
+

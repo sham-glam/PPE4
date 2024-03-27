@@ -1,0 +1,7 @@
+   Un shareware , partagiciel ou contribuciel , est un logiciel qui peut
+   être utilisé gratuitement, mais avec des fonctionnalités limitées et/ou
+   durant une période limitée. Après cette période d'essai, l'utilisateur
+   doit rétribuer l'auteur s'il veut continuer à utiliser le logiciel.
+   Lorsque les fonctionnalités du shareware sont limitées, on parle aussi
+   de logiciel de démonstration.
+

@@ -1,0 +1,8 @@
+   IPCop est une distribution Linux basée sur Linux From Scratch , qui
+   vise à fournir un pare-feu simple à gérer basé sur du matériel PC.
+   IPCop est un pare-feu à états construit sur le framework netfilter de
+   Linux .
+   Famille Type de noyau État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Interface utilisateur par défaut Site web
+

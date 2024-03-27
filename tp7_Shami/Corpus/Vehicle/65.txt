@@ -1,0 +1,5 @@
+   Le navire de tête est le premier d'une classe de navires tous
+   construits sur le même modèle général ou sister-ship . Le terme
+   s'applique aussi bien aux navires militaires qu'aux grands navires
+   civils.
+

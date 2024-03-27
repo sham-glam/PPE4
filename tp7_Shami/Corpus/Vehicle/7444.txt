@@ -1,0 +1,28 @@
+   Le terme U-Boot (abréviation d' Unterseeboot qui signifie sous-marin en
+   allemand , au pluriel U-Boote selon la règle orthographique et la
+   graphie allemandes, ou U-Boots selon la réforme de l'orthographe
+   française de 1990 ) désigne les sous-marins allemands des deux guerres
+   mondiales . Ils sont surtout célèbres pour leurs campagnes d'attaques
+   de convois de ravitaillement partant des États-Unis et du Canada pour
+   l' Europe .
+
+   U-Boot peut faire référence à :
+
+   Le terme U-Boot (abréviation d' Unterseeboot qui signifie sous-marin en
+   allemand , au pluriel U-Boote selon la règle orthographique et la
+   graphie allemandes, ou U-Boots selon la réforme de l'orthographe
+   française de 1990 ) désigne les sous-marins allemands des deux guerres
+   mondiales . Ils sont surtout célèbres pour leurs campagnes d'attaques
+   de convois de ravitaillement partant des États-Unis et du Canada pour
+   l' Europe .
+
+   Das U-Boot (en référence au sous-marin allemand Unterseeboot ) ou
+   U-Boot (de l'anglais « Universal-Boot », signifiant « Démarrage
+   universel ») est un logiciel libre , utilisé comme chargeur d'amorçage
+   , surtout sur les systèmes embarqués . Il est destiné à remplacer le
+   BIOS et l' UEFI . Il est notamment utilisé au sein de SpaceX pour leurs
+   fusées Falcon et capsule spatial Dragon [2]
+   Développé par Première version Dernière version Version avancée Dépôt
+   État du projet Écrit en Environnement Formats lus Langues Type
+   Politique de distribution Licence Documentation Site web
+

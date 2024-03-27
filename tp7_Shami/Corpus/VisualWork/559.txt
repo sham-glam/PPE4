@@ -1,0 +1,14 @@
+   En automatique , le concept TOR (tout ou rien) se ramène au binaire : 0
+   ou 1. Cela signifie que l'information à traiter ne peut prendre que
+   deux états (marche-arrêt). Seuls ces deux niveaux logiques sont
+   possibles, d'où l'appellation commande tout ou rien (en anglais :
+   bang–bang-control ou on–off-control ).
+
+   La modulation tout ou rien ( OOK ) est la forme la plus simple de
+   modulation par déplacement d'amplitude (ASK) qui représente les données
+   numériques comme la présence ou l'absence d'une onde porteuse [1] .
+
+   Tout ou rien peut désigner :
+
+   Tout ou rien peut désigner :
+

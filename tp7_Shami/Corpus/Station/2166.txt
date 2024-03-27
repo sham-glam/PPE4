@@ -1,0 +1,20 @@
+   Une hélisurface est une zone d'atterrissage pour hélicoptères à titre
+   occasionnel, elle ne doit pas dépasser plus de 200 mouvements annuels
+   ou 20 mouvements journaliers ( atterrissage et décollage = 2
+   mouvements). Elle ne peut également se situer en agglomération. Dans le
+   cas où l'aire d'accueil ne respecte pas une de ces règles, elle est
+   considérée comme une hélistation [1] .
+
+   Une hélisurface est une zone d'atterrissage pour hélicoptères à titre
+   occasionnel, elle ne doit pas dépasser plus de 200 mouvements annuels
+   ou 20 mouvements journaliers ( atterrissage et décollage = 2
+   mouvements). Elle ne peut également se situer en agglomération. Dans le
+   cas où l'aire d'accueil ne respecte pas une de ces règles, elle est
+   considérée comme une hélistation [1] .
+
+   L' hélisurface d'Avignon Centre hospitalier est une hélisurface du
+   département de Vaucluse au centre d' Avignon [1] .
+   Localisation Pays Ville Coordonnées Altitude Informations aéronautiques
+   Code IATA Type d'aéroport Gestionnaire Hélisurfaces Numéro Longueur
+   Surface
+

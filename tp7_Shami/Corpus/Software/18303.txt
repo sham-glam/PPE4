@@ -1,0 +1,36 @@
+   Android ( / ˈ æ n ˌ d ɹ ɔ ɪ d / [13]
+   , en français : / ɑ̃ . d ʁ ɔ . i d / ) est un système d'exploitation
+   mobile fondé sur le noyau Linux et développé par des informaticiens
+   sponsorisés par Google . Famille Langues Type de noyau État du projet
+   Dépôt Plates-formes Entreprise /
+   Fondateur Entreprise /
+   Développeur Licence Écrit en Première version Dernière version stable
+   Méthode de mise à jour Gestionnaire de paquets Site web
+
+   Android ( / ˈ æ n ˌ d ɹ ɔ ɪ d / [13]
+   , en français : / ɑ̃ . d ʁ ɔ . i d / ) est un système d'exploitation
+   mobile fondé sur le noyau Linux et développé par des informaticiens
+   sponsorisés par Google . Famille Langues Type de noyau État du projet
+   Dépôt Plates-formes Entreprise /
+   Fondateur Entreprise /
+   Développeur Licence Écrit en Première version Dernière version stable
+   Méthode de mise à jour Gestionnaire de paquets Site web
+
+   Android 10 est la 10 ^e version majeure du système d'exploitation
+   mobile de Google . Elle est disponible depuis le 3 septembre 2019 pour
+   tous les Google Pixel et certains Samsung Galaxy , et sera disponible
+   sur d’autres smartphones ( Xiaomi , LG , Motorola…) ainsi que sur les
+   smartphones Android One et ceux ayant fait partie du programme de bêta
+   déployé par Google ( Realme , Oppo , Essential Products (en) , Vivo ,
+   Sony , Huawei , Motorola…) à la fin de l'année 2019 ou durant l'année
+   2020.
+   Famille Langues État du projet Plates-formes Entreprise /
+   Fondateur Licence États des sources Première version Dernière version
+   stable Méthode de mise à jour Environnement de bureau Site web
+
+   Android 11 est la 11 ^e version majeure et la 18 ^e version d' Android
+   .
+   Famille Langues État du projet Entreprise /
+   Fondateur Licence États des sources Première version Dernière version
+   stable Dernière version avancée Site web
+

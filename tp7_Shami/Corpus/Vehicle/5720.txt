@@ -1,0 +1,13 @@
+   La BMW V12 LM était une voiture de course construite pour les courses
+   de voitures de sport en 1998. La voiture a été construite en utilisant
+   les capacités d'ingénierie et de construction de l'écurie britannique
+   de Formule 1 Williams ainsi qu'un moteur BMW . La voiture a précédé la
+   BMW V12 LMR , qui a fait ses débuts en 1999.
+   Constructeur Année du modèle Nom du moteur Cylindrée Configuration
+   Orientation du moteur Position du moteur Boîte de vitesses Nombre de
+   rapports Cockpit Poids Pilotes Courses Victoires Pole Meilleur tour
+
+   La BMW V12 LMR est une voiture de course de type Sport-prototypes «
+   barquette » (ouverte) de 1999 et 2000.
+   Marque Années de production Classe Chronologie des modèles
+

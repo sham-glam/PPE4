@@ -1,0 +1,28 @@
+   Un port est une infrastructure construite par l'homme, située sur le
+   littoral maritime, sur les berges d'un lac ou sur un cours d'eau , et
+   destinée à accueillir des bateaux et navires . D'autre part il existe
+   des ports à sec installés en sus ou non d'un port maritime ou fluvial
+   comme stationnement portuaire relié à une infrastructure à terre
+   permettant un stockage de petites unités, comme des voiliers, ainsi que
+   des transferts vers des réseaux ferroviaires et routiers.
+
+   Network News Transfer Protocol (NNTP) est un protocole réseau
+   correspondant à la couche application du schéma OSI . Il est spécifié
+   par la RFC 977 .
+   Sigle Port RFC
+
+   Le port du Havre est un grand port maritime français de commerce et de
+   passagers (liaison vers l' Angleterre ). C'est aussi un port de
+   plaisance et de pêche sur la Manche .
+   Type Construction Statut Tirant d'eau Tonnage Trafic Activités
+   Superficie Places Équipement Coordonnées Pays Région Département
+   Commune (France)
+
+   File Transfer Protocol ( protocole de transfert de fichier ), ou FTP ,
+   est un protocole de communication destiné au partage de fichiers sur un
+   réseau TCP/IP . Il permet, depuis un ordinateur, de copier des fichiers
+   vers un autre ordinateur du réseau, ou encore de supprimer ou de
+   modifier des fichiers sur cet ordinateur. Ce mécanisme de copie est
+   souvent utilisé pour alimenter un site web hébergé chez un tiers.
+   Fonction Sigle Date de création Port RFC
+

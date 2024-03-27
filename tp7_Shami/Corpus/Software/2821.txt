@@ -1,0 +1,5 @@
+   AlphaZero est une version généraliste d’ AlphaGo Zero , un logiciel de
+   go (jeu de stratégie abstrait chinois) qui a été adapté pour jouer aux
+   échecs et au shogi (échecs japonais). AlphaZero a été créé par Demis
+   Hassabis de DeepMind , une entreprise appartenant au groupe Google .
+

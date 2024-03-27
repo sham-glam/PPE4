@@ -1,0 +1,8 @@
+   Windows Server 2016 est un système d'exploitation pour serveurs x64 de
+   Microsoft , faisant partie de la famille Windows NT destinée aux
+   serveurs d'entreprise. Il est connu aussi sous le nom « Windows Server
+   vNext » [1] .
+   Famille Type de noyau État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Première version Dernière version
+   stable Méthode de mise à jour Site web
+

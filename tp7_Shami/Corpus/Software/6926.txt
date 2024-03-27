@@ -1,0 +1,32 @@
+   PeerTube ( / p ɪ ʀ t u b / [alpha 1] en français ou / ˈ p ɪ ə t j u ː b
+   / [alpha 2] en anglais ) est un logiciel libre d' hébergement de vidéo
+   décentralisé permettant la diffusion en pair à pair , et un média
+   social sur lequel les utilisateurs peuvent envoyer, regarder,
+   commenter, évaluer et partager des vidéos en streaming . Il est créé en
+   2015 et est développé depuis 2017 par Framasoft . Il fonctionne sur le
+   principe d'une fédération d'instances hébergées par des entités
+   autonomes [65] . Son objectif est de fournir une alternative aux
+   plateformes centralisées telles que YouTube , Vimeo [66]  [67] et
+   plus récemment Twitch avec l'ajout du support de la diffusion en direct
+   [68] .
+   Développé par Première version Dernière version Version avancée Dépôt
+   État du projet Écrit en Système d'exploitation Environnement Formats
+   lus Formats écrits Langues Type Politique de distribution Licence
+   Documentation Site web
+
+   PeerTube ( / p ɪ ʀ t u b / [alpha 1] en français ou / ˈ p ɪ ə t j u ː b
+   / [alpha 2] en anglais ) est un logiciel libre d' hébergement de vidéo
+   décentralisé permettant la diffusion en pair à pair , et un média
+   social sur lequel les utilisateurs peuvent envoyer, regarder,
+   commenter, évaluer et partager des vidéos en streaming . Il est créé en
+   2015 et est développé depuis 2017 par Framasoft . Il fonctionne sur le
+   principe d'une fédération d'instances hébergées par des entités
+   autonomes [65] . Son objectif est de fournir une alternative aux
+   plateformes centralisées telles que YouTube , Vimeo [66]  [67] et
+   plus récemment Twitch avec l'ajout du support de la diffusion en direct
+   [68] .
+   Développé par Première version Dernière version Version avancée Dépôt
+   État du projet Écrit en Système d'exploitation Environnement Formats
+   lus Formats écrits Langues Type Politique de distribution Licence
+   Documentation Site web
+

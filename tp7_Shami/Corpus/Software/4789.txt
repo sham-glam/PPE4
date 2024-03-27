@@ -1,0 +1,30 @@
+   Un jeu vidéo multijoueur permet à plusieurs personnes de participer
+   ensemble et simultanément à une même partie . Cette fonctionnalité peut
+   se réaliser soit en partageant le même matériel (exemple : un jeu
+   multijoueur sur une console de salon qui divise l'écran en fonction du
+   nombre de joueurs), soit en mode de jeu en réseau sur plusieurs
+   plates-formes de jeu distinctes qui communiquent entre elles au travers
+   d'un réseau informatique (soit entre particuliers en réseau local ,
+   soit sur un jeu en ligne via Internet ).
+
+   Le jeu en ligne massivement multijoueur ( MMOG , de l'anglais massively
+   multiplayer online game , parfois encore abrégé en MMO ) est un genre
+   de jeu vidéo faisant participer un très grand nombre de joueurs
+   simultanément par le biais d'un réseau informatique ayant accès à
+   Internet .
+
+   Un jeu vidéo multijoueur permet à plusieurs personnes de participer
+   ensemble et simultanément à une même partie . Cette fonctionnalité peut
+   se réaliser soit en partageant le même matériel (exemple : un jeu
+   multijoueur sur une console de salon qui divise l'écran en fonction du
+   nombre de joueurs), soit en mode de jeu en réseau sur plusieurs
+   plates-formes de jeu distinctes qui communiquent entre elles au travers
+   d'un réseau informatique (soit entre particuliers en réseau local ,
+   soit sur un jeu en ligne via Internet ).
+
+   Le jeu en ligne massivement multijoueur ( MMOG , de l'anglais massively
+   multiplayer online game , parfois encore abrégé en MMO ) est un genre
+   de jeu vidéo faisant participer un très grand nombre de joueurs
+   simultanément par le biais d'un réseau informatique ayant accès à
+   Internet .
+

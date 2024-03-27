@@ -1,0 +1,31 @@
+   GNU
+   est un système d’exploitation libre créé en 1983 par Richard Stallman ,
+   maintenu par le projet GNU . Il reprend les concepts et le
+   fonctionnement d’ UNIX [n 1] . Famille Langues Type de noyau État du
+   projet Plates-formes Entreprise /
+   Fondateur Entreprise /
+   Développeur Licence États des sources Première version Méthode de mise
+   à jour Gestionnaire de paquets Site web
+
+   GNU
+   est un système d’exploitation libre créé en 1983 par Richard Stallman ,
+   maintenu par le projet GNU . Il reprend les concepts et le
+   fonctionnement d’ UNIX [n 1] . Famille Langues Type de noyau État du
+   projet Plates-formes Entreprise /
+   Fondateur Entreprise /
+   Développeur Licence États des sources Première version Méthode de mise
+   à jour Gestionnaire de paquets Site web
+
+   (9965) GNU est un astéroïde de la ceinture principale qui orbite autour
+   du Soleil en 3,76 années.
+   Demi-grand axe ( a ) Périhélie ( q ) Aphélie ( Q ) Excentricité ( e )
+   Période de révolution ( P [rév ]) Vitesse orbitale moyenne ( v [orb ])
+   Inclinaison ( i ) Longitude du nœud ascendant ( Ω ) Argument du
+   périhélie ( ω ) Anomalie moyenne ( M [0 ]) Catégorie Magnitude absolue
+   ( H ) Température ( T ) Date Découvert par Désignation
+
+   GNUbik est un jeu de puzzle , une implémentation logicielle du jeu
+   Rubik's Cube .
+   Développé par Dernière version Dépôt Écrit en Environnement Type
+   Licence Site web
+

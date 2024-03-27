@@ -1,0 +1,7 @@
+   L'aéroport de Lost Nation ( code IATA : LNN [1] • code OACI : KLNN •
+   code FAA : LNN ) ) est un aéroport civil situé dans le Comté de Lake,
+   Ohio aux États-Unis [2] .
+   Localisation Pays État Ville Coordonnées Altitude Informations
+   aéronautiques Code IATA Code OACI Code FAA Type d'aéroport Gestionnaire
+   Pistes Direction Longueur Surface
+

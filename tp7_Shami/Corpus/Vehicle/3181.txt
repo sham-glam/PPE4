@@ -1,0 +1,11 @@
+   Le Consolidated PBY Catalina est un hydravion militaire conçu dans les
+   années 1930 aux États-Unis . Il est largement utilisé pendant la
+   Seconde Guerre mondiale , tant par l'armée américaine que par celle
+   d'autres pays alliés , effectuant des missions très diverses ( lutte
+   anti-sous-marine , escorte de convois, sauvetage en mer , etc.).
+   Constructeur Rôle Statut Premier vol Mise en service Date de retrait
+   Coût unitaire Nombre construits Équipage Motorisation Moteur Nombre
+   Type Puissance unitaire Dimensions Envergure Longueur Hauteur Surface
+   alaire Masses À vide Avec armement Performances Vitesse maximale
+   Plafond Vitesse ascensionnelle Rayon d'action Armement Interne Externe
+

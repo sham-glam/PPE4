@@ -1,0 +1,15 @@
+   Les BB 26000 sont une série de locomotives électriques de la SNCF ,
+   surnommées « Sybic » contraction de « Synchrone » et « Bicourant ». Ce
+   sont de nos jours, avec leurs petites sœurs les BB 36000 , les
+   locomotives les plus puissantes de la SNCF.
+   Exploitant(s) Désignation Surnom Type Motorisation Couplage
+   Construction Constructeur(s) Livraison Effectif Retrait Affectation
+   Disposition des essieux Écartement Alimentation Pantographes Schéma de
+   traction Moteurs de traction Transmission Puissance continue Effort de
+   traction Masse en service Longueur Largeur Hauteur Empattement
+   Empattement du bogie Diamètre des roues Vitesse maximale
+
+   Cette liste recense les éléments du parc de BB 26000 , appelée aussi
+   Sybic , matériel roulant de la Société nationale des chemins de fer
+   français (SNCF).
+

@@ -1,0 +1,18 @@
+   Entourage est un film américain réalisé par Doug Ellin , sorti en 2015
+   .
+   Titre original Réalisation Scénario Acteurs principaux Sociétés de
+   production Pays de production Genre Durée Sortie
+
+   Le Kia Carnival est un grand monospace du constructeur automobile
+   sud-coréen Kia Motors vendu depuis 1999.
+
+   Microsoft Entourage est un client de messagerie et un gestionnaire
+   d'informations personnelles développé par Microsoft pour Mac OS . Il
+   est assez similaire à Outlook que Microsoft produit pour son système
+   d'exploitation Windows . Les fonctions de gestion d'information
+   personnelle d'Entourage intègrent un calendrier , un carnet d'adresses
+   , un gestionnaire de tâches, une liste de notes et un gestionnaire de
+   projet.
+   Développé par Dernière version État du projet Système d'exploitation
+   Environnement Formats lus Type Licence Site web
+

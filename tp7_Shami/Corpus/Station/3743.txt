@@ -1,0 +1,36 @@
+   PICO est une expérience de recherche en physique visant la détection
+   directe de matière sombre , utilisant des détecteurs à bulles . Elle
+   fut formée en 2013 par l'union des expériences PICASSO et COUPP [1] .
+   Elle est située au laboratoire SNOLAB à Grand Sudbury en Ontario , et
+   la collaboration regroupe des chercheurs de partout dans le monde.
+
+   Pico (symbole p ) est le préfixe du Système international d'unités ( SI
+   ) qui représente 10 ^–12 fois l'unité (soit un mille-milliardième, ou
+   un millionième de millionième). Par exemple, le pico farad ( 1 pF = 10
+   ^–12 F ) est la plus petite unité de mesure de capacité électrique
+   couramment utilisée en électronique .
+
+   PICO-8 est une " fantasy console " pour créer, partager et jouer à de
+   petits jeux et autres programmes informatiques. Cela ressemble à une
+   console ordinaire, mais celle-ci fonctionne sous Windows / Mac / Linux.
+   Lorsque vous l'allumez, la machine vous accueille avec une ligne de
+   commande, une suite d'outils de création de cartouches et un navigateur
+   de cartouches en ligne appelé SPLORE. Les limitations sévères de PICO-8
+   sont soigneusement choisies pour être agréables à travailler, pour
+   encourager les conceptions petites mais expressives et pour donner aux
+   cartouches fabriquées avec PICO-8 leur propre aspect et leur propre
+   sensation.
+   Créateur Développé par Langues Type Licence Site web
+
+   PICO-8 est une " fantasy console " pour créer, partager et jouer à de
+   petits jeux et autres programmes informatiques. Cela ressemble à une
+   console ordinaire, mais celle-ci fonctionne sous Windows / Mac / Linux.
+   Lorsque vous l'allumez, la machine vous accueille avec une ligne de
+   commande, une suite d'outils de création de cartouches et un navigateur
+   de cartouches en ligne appelé SPLORE. Les limitations sévères de PICO-8
+   sont soigneusement choisies pour être agréables à travailler, pour
+   encourager les conceptions petites mais expressives et pour donner aux
+   cartouches fabriquées avec PICO-8 leur propre aspect et leur propre
+   sensation.
+   Créateur Développé par Langues Type Licence Site web
+

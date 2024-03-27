@@ -1,0 +1,4 @@
+   NB-IoT ( Narrowband Internet of things ) est un protocole de
+   communication radio dédié aux réseaux étendus à faible consommation et
+   à l' Internet des objets .
+

@@ -1,0 +1,30 @@
+   Quake est un jeu vidéo de tir à la première personne ( FPS ) développé
+   par id Software et publié en version shareware le 22 juin 1996 puis en
+   version commerciale par GT Interactive le 22 juillet 1996 .
+   Développeur Éditeur Réalisateur Compositeur Date de sortie Genre Mode
+   de jeu Plateforme Langue Moteur Version Évaluation Quake
+
+   Quake II est un jeu vidéo de tir à la première personne ( FPS )
+   développé par id Software et publié par Activision le 30 novembre 1997
+   . Le jeu s’inscrit dans la lignée du précédent titre d’ id Software -
+   Quake - dont il reprend le moteur de jeu id Tech 2 et le système de
+   jeu. Son scénario ne s'inscrit en revanche pas dans la trame du premier
+   opus de la série, le joueur incarnant un soldat lors d'un débarquement
+   massif contre une planète d'extra-terrestres hostiles, les Stroggs .
+   Développeur Éditeur Réalisateur Compositeur Date de sortie Genre Mode
+   de jeu Plateforme Langue Moteur Version Évaluation Site web Quake
+
+   Quake III Arena est un jeu vidéo de tir à la première personne
+   développé par id Software et publié par Activision sur PC le 2 décembre
+   1999 . Le jeu a également été publié sur Linux , sur Macintosh , sur
+   Dreamcast , sur PlayStation 2 (nommé Quake III Revolution [2] sur cette
+   plateforme) et sur Xbox Live Arcade .
+   Développeur Éditeur Réalisateur Compositeur Date de sortie Genre Mode
+   de jeu Plateforme Langue Moteur Version Évaluation Site web Quake
+
+   Quake 4 est un jeu de tir à la première personne (FPS) sorti en 2005 ,
+   créé par id Software et développé par Raven Software .
+   Développeur Éditeur Réalisateur Compositeur Producteur Date de sortie
+   Genre Mode de jeu Plateforme Langue Moteur Version Évaluation Site web
+   Quake
+

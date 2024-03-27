@@ -1,0 +1,26 @@
+   TeX est un système logiciel libre de composition de documents,
+   indépendant du matériel utilisé pour la visualisation ou l'impression.
+   Il fut créé à partir de 1977 par le mathématicien et informaticien
+   Donald Knuth , excédé par la piètre qualité de la typographie des
+   logiciels d'édition de l'époque. Il est principalement conçu pour
+   l'édition de documents techniques et est largement utilisé par les
+   scientifiques, particulièrement en mathématiques , physique ,
+   bio-informatique , astronomie et informatique . Il est également
+   extensible et permet notamment l'édition de documents plus complexes
+   (affiches, plaquettes publicitaires, partitions musicales...). TeX
+   vient de τεχ , début du mot τέχνη , tékhnê (« art, science », en grec
+   ancien ), et se prononce / tɛx / [2] ou / tɛk /, au choix. On écrit
+   parfois T E X au lieu de TeX, le logiciel permettant les mises en forme
+   correspondant au logo.
+   Créateur Première version Dernière version Dépôt Écrit en Système
+   d'exploitation Formats écrits Type Site web
+
+   DVI est un format ouvert de composition typographique créé pour le
+   système de composition de texte TeX . DVI est l'abréviation de
+   device-independent , ce qui signifie « indépendant du type d'unité (ou
+   périphérique) ». Ainsi, un fichier DVI peut être imprimé sur presque
+   n'importe quel type d'appareil de sortie typographique.
+
+   Disco-Tex and the Sex-O-Lettes est un groupe américain de disco des
+   années 1970 .
+

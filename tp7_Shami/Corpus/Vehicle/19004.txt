@@ -1,0 +1,10 @@
+   Le Saunders-Roe A.33 était un prototype d'hydravion britannique de l'
+   Entre-deux-guerres , conçu par Saunders-Roe pour répondre à la
+   Specification R.2/33 émise par le Ministère de l'Air britannique ( Air
+   Ministry ). Il était en compétition avec le Short Sunderland .
+   Constructeur Rôle Statut Premier vol Nombre construits Motorisation
+   Moteur Nombre Type Puissance unitaire Dimensions Envergure Longueur
+   Hauteur Surface alaire Masses À vide Avec armement Performances Vitesse
+   de croisière Vitesse maximale Plafond Endurance Charge alaire Armement
+   Interne Externe
+

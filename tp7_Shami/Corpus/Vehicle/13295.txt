@@ -1,0 +1,9 @@
+   La BMW 1500 est une routière produite par BMW de 1962 à 1964 . Elle
+   fait partie de la BMW Neue Klasse .
+   Marque Années de production Production Classe Moteur et transmission
+   Énergie Moteur(s) Cylindrée Puissance maximale Couple maximal
+   Transmission Boîte de vitesses Poids et performances Poids à vide
+   Vitesse maximale Accélération Consommation mixte Châssis - Carrosserie
+   Carrosserie(s) Freins Dimensions Longueur Largeur Hauteur Empattement
+   Voies AV/AR Chronologie des modèles
+

@@ -1,0 +1,16 @@
+   C3 , C-3 , C03 ou C.III peut faire référence à :
+
+   La linéarisation de la superclasse C3 est un algorithme utilisé
+   principalement pour obtenir l'ordre dans lequel les méthodes doivent
+   être héritées en présence d' un héritage multiple . En d'autres termes,
+   la sortie de la linéarisation de la superclasse C3 est un ordre de
+   résolution de méthode (MRO) déterministe.
+
+   Anik (de l' inuktitut ᐊᓂᒃ, « petit frère » [1] ) est le nom d'une série
+   de satellites canadiens de communications intérieures à usage
+   commercial .
+
+   Le C3 est une protéine appartenant au système du complément jouant un
+   rôle dans l' immunité . Son gène est C3 situé sur le chromosome 19
+   humain .
+

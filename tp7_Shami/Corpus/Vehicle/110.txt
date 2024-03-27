@@ -1,0 +1,34 @@
+   Monitor est un nom de lieu notamment porté par :
+
+   Le mode moniteur (aussi appelé Radio Frequency Monitoring , RF Monitor
+   , rfmon , RFMON , Air Monitor , Network Monitor , NetMon , ou encore
+   surveillance RF ) permet à un ordinateur équipé d'une carte réseau
+   Wi-Fi d'écouter tout le trafic d'un réseau sans fil. À la différence du
+   mode promiscuous , qui est aussi utilisé pour sniffer un réseau, le
+   mode moniteur permet aux paquets d'être capturés sans avoir besoin de
+   s'enregistrer sur un point d'accès (AP) ou réseau ad hoc . Le mode
+   moniteur n'existe que sur les réseaux sans fil, tandis que le mode
+   promiscuous peut être utilisé à la fois sur les réseaux filaires et
+   sans fil.
+
+   Le mode moniteur (aussi appelé Radio Frequency Monitoring , RF Monitor
+   , rfmon , RFMON , Air Monitor , Network Monitor , NetMon , ou encore
+   surveillance RF ) permet à un ordinateur équipé d'une carte réseau
+   Wi-Fi d'écouter tout le trafic d'un réseau sans fil. À la différence du
+   mode promiscuous , qui est aussi utilisé pour sniffer un réseau, le
+   mode moniteur permet aux paquets d'être capturés sans avoir besoin de
+   s'enregistrer sur un point d'accès (AP) ou réseau ad hoc . Le mode
+   moniteur n'existe que sur les réseaux sans fil, tandis que le mode
+   promiscuous peut être utilisé à la fois sur les réseaux filaires et
+   sans fil.
+
+   Le monitor Atahualpa [1] de la marine péruvienne a été acheté à l'
+   Union Navy en 1868, avec son sister-ship l' Manco Cápac , et a
+   participé à la Guerre du Pacifique (1879-1884) . Il a été sabordé par
+   son propre équipage le 16 juillet 1881.
+   Autres noms Type Histoire A servi dans Chantier naval Quille posée
+   Lancement Armé Statut Équipage Équipage Caractéristiques techniques
+   Longueur Maître-bau Tirant d'eau Déplacement Propulsion Puissance
+   Vitesse Caractéristiques militaires Blindage Armement Rayon d'action
+   Aéronefs
+

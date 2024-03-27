@@ -1,0 +1,9 @@
+   Un deux-mâts est un terme générique pour désigner un navire à voile
+   comportant deux mâts verticaux [1] .
+   Il existe de très nombreux types de deux-mâts.
+
+   Un problème d'échecs orthodoxe en deux coups est un problème d'échecs
+   qui respecte toutes les règles du jeu d'échecs dans lequel le joueur au
+   trait inflige un mat imparable en deux coups, quelle que soit la
+   défense de son adversaire.
+

@@ -1,0 +1,23 @@
+   Un navigateur web , navigateur Web [1]  [2] , fureteur [2] , est un
+   logiciel conçu pour consulter et afficher le World Wide Web .
+   Techniquement, c'est au minimum un client HTTP .
+
+   Un navigateur web , navigateur Web [1]  [2] , fureteur [2] , est un
+   logiciel conçu pour consulter et afficher le World Wide Web .
+   Techniquement, c'est au minimum un client HTTP .
+
+   GNOME Web (anciennement Epiphany ) est un navigateur web libre qui se
+   veut simple d'utilisation et parfaitement intégré à l'environnement de
+   bureau GNOME qu'il équipe par défaut.
+   Développé par Première version Dernière version Version avancée Dépôt
+   État du projet Écrit en Interface Système d'exploitation Type Politique
+   de distribution Licence Site web
+
+   Amaya était un éditeur HTML WYSIWYG libre avec des capacités de
+   navigation . Il constituait l'implémentation de référence des normes du
+   W3C pour le Web et avait pour but de tester les normes et standards
+   préconisés par cet organisme. Depuis 2012, il n'est plus en
+   développement.
+   Développé par Dernière version Version avancée Dépôt Écrit en Interface
+   Système d'exploitation Environnement Type Licence Site web
+

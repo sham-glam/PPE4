@@ -1,0 +1,28 @@
+   Une locomotive est un véhicule ferroviaire qui fournit l'énergie
+   motrice d'un train . L'adjectif substantivé est originaire du latin
+   loco - « venant d'un lieu », ablatif de « locus », lieu - et du latin
+   médiéval motivus , « qui provoque le mouvement ». Les machines à vapeur
+   loco-motrices ont remplacé les machines à vapeur stationnaires chargées
+   de faire remonter les trains de wagons de marchandises ou de voitures
+   de voyageurs sur les plans inclinés des premières voies ferrées.
+   Celles-ci complétaient la traction hippomobile sur les parties des
+   voies sans déclivité, d'abord dans puis hors des mines, tandis que
+   certains trains avançaient par gravité par exemple pour descendre le
+   charbon des sorties des mines vers les canaux.
+
+   Une locomotive Diesel est une locomotive dont l'énergie de traction
+   provient d'un moteur Diesel interne. On en distingue plusieurs types,
+   selon la façon dont la puissance fournie par le moteur est transmise
+   aux essieux.
+
+   Les locomotives GAIA sont issues d'un groupement d'entreprises
+   italo-argentines appelé "Gruppo Aziende Italiane e Argentine" -
+   G.A.I.A. et était composé de plusieurs sociétés des deux pays.
+   Exploitant(s) Désignation Type Motorisation Constructeur(s) Nombre Mise
+   en service Disposition des essieux Écartement Carburant Moteur
+   thermique Moteurs de traction Transmission Masse en service Vitesse
+   maximale
+
+   Les locomotives Shay sont les locomotives à vapeur à engrenages les
+   plus utilisées.
+

@@ -1,0 +1,25 @@
+   Phred est un programme informatique permettant l'identification des
+   bases d'une séquence d' ADN à partir de données d'un électrophorègramme
+   générées par des séquences marquées à l'aide de fluorochromes et
+   séparées par électrophorèse sur un séquenceur d'ADN automatisé [1] 
+   [2] . À l'époque de son développement, Phred produisait beaucoup moins
+   d'erreurs lors de l'analyse de données que d'autres méthodes, réduisant
+   le taux d'erreur de 40 à 50 %. Les scores de qualité phred sont par
+   ailleurs devenus un standard pour caractériser la qualité d'une
+   séquence d'ADN, pouvant être utilisés pour comparer l'efficacité des
+   différentes techniques de séquençage .
+   Développé par Dernière version Écrit en Système d'exploitation
+   Environnement Type Licence Site web
+
+   Les scores de qualité phred (aussi appelé scores phred ) ont été
+   originellement développés pour le programme Phred afin d'aider à
+   l'automatisation du séquençage d'ADN lors du Projet Génome Humain . Ces
+   scores de qualité sont assignés à chaque base nucléique issu d'un
+   électrophorègramme de séquençage automatique [1]  [2] . Ils sont
+   devenus par la suite un standard permettant de caractériser la qualité
+   d'une séquence d'ADN et sont utilisés pour comparer l'efficacité des
+   différentes techniques de séquençage . Cependant, l'utilisation la plus
+   courante de ces scores de qualité concerne la détermination de
+   l'exactitude des séquences consensus basées sur la qualité de
+   séquençage.
+

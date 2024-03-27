@@ -1,0 +1,17 @@
+   Microsoft Office est une suite bureautique propriété de la société
+   Microsoft qui fonctionne avec les plates-formes fixes et mobiles. Elle
+   s'installe sur ordinateur et fournit une suite de logiciels comme :
+   Word , Excel , PowerPoint , OneNote , Outlook , Access et/ou Publisher
+   selon les suites choisies.
+   Développé par Première version Dernière version Écrit en Système
+   d'exploitation Formats lus Type Licence Site web
+
+   Microsoft Office 1.0 est la première version de la suite Microsoft
+   Office conçue pour Windows 2.x et conçue en 16 bits.
+
+   Microsoft Office 1.5 est une version de la suite Microsoft Office
+   conçue pour Windows 2.x et conçue en 16 bits.
+
+   Microsoft Office 1.6 est une version 16 bits de la suite Microsoft
+   Office .
+

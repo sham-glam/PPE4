@@ -1,0 +1,10 @@
+   L' aéroport de Grenoble-Alpes-Isère ( code IATA : GNB • code OACI :
+   LFLS ) , ou aéroport de Grenoble Alpes Isère , anciennement appelé
+   Grenoble-Saint-Geoirs et Aéroport Grenoble-Isère , est un aéroport
+   desservant la métropole de Grenoble et le département de l' Isère dont
+   les stations de sports d'hiver à forte notoriété comme l' Alpe d'Huez ,
+   les Deux Alpes ou Villard-de-Lans .
+   Localisation Pays Ville Coordonnées Altitude Informations aéronautiques
+   Code IATA Code OACI Nom cartographique Type d'aéroport Gestionnaire
+   Pistes Direction Longueur Surface
+

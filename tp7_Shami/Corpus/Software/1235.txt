@@ -1,0 +1,34 @@
+   PHP: Hypertext Preprocessor [36] , plus connu sous son sigle PHP (
+   sigle auto-référentiel ), est un langage de programmation libre [37] ,
+   principalement utilisé pour produire des pages Web dynamiques via un
+   serveur HTTP [36] , mais pouvant également fonctionner comme n'importe
+   quel langage interprété de façon locale. PHP est un langage impératif
+   orienté objet .
+   Date de première version Paradigmes Auteur Développeurs Dernière
+   version Version en développement Typage Influencé par Écrit en Système
+   d'exploitation Licence Site web Extension de fichier
+
+   PHP: Hypertext Preprocessor [36] , plus connu sous son sigle PHP (
+   sigle auto-référentiel ), est un langage de programmation libre [37] ,
+   principalement utilisé pour produire des pages Web dynamiques via un
+   serveur HTTP [36] , mais pouvant également fonctionner comme n'importe
+   quel langage interprété de façon locale. PHP est un langage impératif
+   orienté objet .
+   Date de première version Paradigmes Auteur Développeurs Dernière
+   version Version en développement Typage Influencé par Écrit en Système
+   d'exploitation Licence Site web Extension de fichier
+
+   Doctrine est un ORM (couche d'abstraction à la base de données ) pour
+   PHP . Il s'agit d'un logiciel libre sous licence GNU LGPL .
+   Doctrine est l' ORM par défaut du framework Symfony (depuis la version
+   1.3 de ce framework). Cependant, son utilisation dans le cadre d'un
+   projet développé avec Symfony est optionnelle. De plus, il peut être
+   utilisé avec de nombreux autres frameworks tels que Zend Framework ,
+   CodeIgniter , FLOW3 ou encore Lithium.
+   Première version Dernière version Dépôt Écrit en Système d'exploitation
+   Type Licence Site web
+
+   Le jeu par navigateur ou jeu sur navigateur est un type de jeu en ligne
+   qui se joue par l'intermédiaire d'un navigateur , directement à partir
+   du Web , sans besoin d' installation ni de téléchargement .
+

@@ -1,0 +1,9 @@
+   TightVNC ( VNC est l'abréviation de Virtual Network Computing ;
+   TightVNC peut se traduire par Utilisation virtuelle d'un ordinateur à
+   travers un réseau ) est un logiciel permettant d'accéder à distance à
+   un PC depuis n'importe quel ordinateur connecté à Internet et possédant
+   un navigateur Web compatible Java ou une application cliente VNC. Cette
+   utilisation se nomme bureau à distance .
+   Première version Dernière version État du projet Écrit en Système
+   d'exploitation Environnement Langues Type Licence Site web
+

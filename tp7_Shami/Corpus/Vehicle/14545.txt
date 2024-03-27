@@ -1,0 +1,13 @@
+   Le Boeing Modèle 247 fut un des premiers avions de transport à intégrer
+   pleinement des avancées technologiques comme la construction tout métal
+   (l’aluminium anodisé), une structure semi-monocoque, une aile en
+   porte-à-faux et un train d'atterrissage rétractable. L’avion comportait
+   bien d’autres innovations, telles que l’emploi de gouvernes compensées,
+   un pilote automatique et un système de dégivrage par boudins (boots)
+   gonflables sur les ailes et l'empennage.
+   Rôle Constructeur Équipage Premier vol Mise en service Premier client
+   Dimensions Longueur Envergure Hauteur Aire alaire Masse et capacité
+   d'emport Max. à vide Max. au décollage Passagers Motorisation Moteurs
+   Puissance unitaire Puissance totale Performances Vitesse de croisière
+   maximale Vitesse maximale Autonomie Plafond Vitesse ascensionnelle
+

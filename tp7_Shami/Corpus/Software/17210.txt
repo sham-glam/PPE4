@@ -1,0 +1,22 @@
+   Le Hierarchical File System ( HFS ), est un système de fichiers
+   propriétaire développé par Apple pour le système d'exploitation Mac OS
+   . Conçu à l'origine pour les disquettes et disques durs , il peut
+   également être utilisé sur des médias en lecture seule, comme les
+   CD-ROM . HFS est généralement désigné par « Mac OS Standard », et son
+   successeur HFS+ par « Mac OS étendu ».
+   Développeur Nom anglais Introduction Identificateur de partition
+   Structure Contenu des répertoires Allocation de fichiers Mauvais blocs
+   Limitations Taille maximale de fichier Nombre maximal de fichiers
+   Taille maximale du nom de fichiers Taille maximale de volume Caractères
+   autorisés dans les noms de fichiers Fonctionnalités Dates enregistrées
+   Plage de dates Forks Attributs Permissions Compression intégrée
+   Chiffrement intégré
+
+   HFS est un sigle qui peut désigner :
+
+   HFS+ , ou HFS étendu, est un système de fichiers géré par le système
+   d'exploitation Mac OS à partir de sa version 8.1 .
+
+   HFS+ , ou HFS étendu, est un système de fichiers géré par le système
+   d'exploitation Mac OS à partir de sa version 8.1 .
+

@@ -1,0 +1,5 @@
+   L' aérodrome de Puerto Barrios dessert la ville de Puerto Barrios au
+   Guatemala .
+   Localisation Pays Ville Coordonnées Altitude Informations aéronautiques
+   Code IATA Code OACI Pistes Direction Longueur Surface
+

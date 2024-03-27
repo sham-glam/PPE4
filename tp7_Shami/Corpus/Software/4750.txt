@@ -1,0 +1,3 @@
+   gdbserver est une commande Unix permettant de déboguer à distance (
+   debug croisé ) avec le GNU Debugger .
+

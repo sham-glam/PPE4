@@ -1,0 +1,17 @@
+   Deux sous-marins de l ' US Navy ont porté le nom d ' USS Swordfish ,
+   Swordfish signifiant espadon en anglais :
+
+   L' USS Swordfish (SS-193) est un sous-marin de classe Sargo construit
+   pour l' US Navy à la fin des années 1930.
+   Type Classe Fonction Histoire A servi dans Commanditaire Constructeur
+   Chantier naval Quille posée Lancement Commission Statut Équipage
+   Équipage Caractéristiques techniques Longueur Maître-bau Tirant d'eau
+   Déplacement Propulsion Puissance Vitesse Profondeur Caractéristiques
+   militaires Armement Rayon d'action Carrière Indicatif
+
+   L ' USS Swordfish (SSN-579) est un sous-marin nucléaire d'attaque
+   américain de classe Skate pendant la guerre froide .
+   Type Histoire A servi dans Chantier naval Statut Équipage Équipage
+   Caractéristiques techniques Longueur Maître-bau Tirant d'eau
+   Déplacement Propulsion Vitesse Carrière Indicatif
+

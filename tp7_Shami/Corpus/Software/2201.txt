@@ -1,0 +1,19 @@
+   (202373) Ubuntu est un astéroïde de la ceinture principale
+   d'astéroïdes.
+   Demi-grand axe ( a ) Périhélie ( q ) Aphélie ( Q ) Excentricité ( e )
+   Période de révolution ( P [rév ]) Inclinaison ( i ) Longitude du nœud
+   ascendant ( Ω ) Argument du périhélie ( ω ) Anomalie moyenne ( M [0 ])
+   Catégorie Magnitude absolue ( H ) Date Découvert par Lieu Désignation
+
+   Une nouvelle version d’ Ubuntu sort tous les six mois. Dans le même
+   temps, Ubuntu est développé selon des cycles de deux ans qui
+   définissent les principales orientations et aboutissent à des versions
+   LTS ( long term support , « support à long terme ») plus
+   particulièrement optimisées, stables et supportées durant cinq ans.
+
+   Une nouvelle version d’ Ubuntu sort tous les six mois. Dans le même
+   temps, Ubuntu est développé selon des cycles de deux ans qui
+   définissent les principales orientations et aboutissent à des versions
+   LTS ( long term support , « support à long terme ») plus
+   particulièrement optimisées, stables et supportées durant cinq ans.
+

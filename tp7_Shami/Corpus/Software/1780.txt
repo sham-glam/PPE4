@@ -1,0 +1,53 @@
+   OS/2 est un système d'exploitation créé par Microsoft et IBM , qui a
+   ensuite été développé par IBM seul. Le nom OS/2 signifie Operating
+   System/2 ( operating system signifie système d'exploitation en
+   anglais). Ce nom fut choisi en référence à la gamme de PC de seconde
+   génération d'IBM nommée IBM Personal System/2 , sur lesquels OS/2 était
+   installé [2] , en remplacement de PC-DOS et surtout, comme nous le
+   verrons par la suite, afin de dépasser ses limites. La première version
+   (sans interface graphique , 16 bits , multitâche , etc. ) est sortie en
+   décembre 1987 . Actuellement, IBM ne commercialise plus OS/2 et
+   l'entreprise a arrêté sa prise en charge depuis le 12 décembre 2006 .
+   Langues État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Écrit en Première version
+   Dernière version stable
+
+   Cmd (de command prompt en anglais) ou l' invite de commandes est un
+   logiciel d'interprétation des commandes DOS , Windows et OS/2 qui
+   affiche une interface utilisateur en ligne de commande de type Win32 .
+   Son développement, particulièrement lent depuis Windows 2000, a été
+   activement relancé début 2016 [1] , afin de concurrencer les terminaux
+   Linux. Son ancêtre sous MS-DOS (présent dans Windows 9x ) était le
+   programme COMMAND . Il est l'équivalent du shell Unix . Il peut
+   interpréter des fichiers Batch qui contiennent une série de commandes.
+   Développé par Fichier exécutable Environnement Langues Type Politique
+   de distribution Licence
+
+   OS/2 est un système d'exploitation créé par Microsoft et IBM , qui a
+   ensuite été développé par IBM seul. Le nom OS/2 signifie Operating
+   System/2 ( operating system signifie système d'exploitation en
+   anglais). Ce nom fut choisi en référence à la gamme de PC de seconde
+   génération d'IBM nommée IBM Personal System/2 , sur lesquels OS/2 était
+   installé [2] , en remplacement de PC-DOS et surtout, comme nous le
+   verrons par la suite, afin de dépasser ses limites. La première version
+   (sans interface graphique , 16 bits , multitâche , etc. ) est sortie en
+   décembre 1987 . Actuellement, IBM ne commercialise plus OS/2 et
+   l'entreprise a arrêté sa prise en charge depuis le 12 décembre 2006 .
+   Langues État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Écrit en Première version
+   Dernière version stable
+
+   OS/2 est un système d'exploitation créé par Microsoft et IBM , qui a
+   ensuite été développé par IBM seul. Le nom OS/2 signifie Operating
+   System/2 ( operating system signifie système d'exploitation en
+   anglais). Ce nom fut choisi en référence à la gamme de PC de seconde
+   génération d'IBM nommée IBM Personal System/2 , sur lesquels OS/2 était
+   installé [2] , en remplacement de PC-DOS et surtout, comme nous le
+   verrons par la suite, afin de dépasser ses limites. La première version
+   (sans interface graphique , 16 bits , multitâche , etc. ) est sortie en
+   décembre 1987 . Actuellement, IBM ne commercialise plus OS/2 et
+   l'entreprise a arrêté sa prise en charge depuis le 12 décembre 2006 .
+   Langues État du projet Plates-formes Entreprise /
+   Développeur Licence États des sources Écrit en Première version
+   Dernière version stable
+

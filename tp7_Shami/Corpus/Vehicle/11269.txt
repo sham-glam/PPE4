@@ -1,0 +1,24 @@
+   La Class40 est une classe de voilier monocoque hauturier de course et
+   de croisière, dont la longueur est de 40 pieds soit 12,19 m . Ses
+   caractéristiques sont définies par une jauge à restrictions.
+   Type Classe Caractéristiques techniques Longueur Maître-bau Tirant
+   d'eau Tirant d'air Déplacement Voilure
+
+   Aïna Enfance et Avenir est un voilier monocoque destinée à la course au
+   large . Il fait partie de la classe Class 40 [1] .
+   Autres noms Classe Histoire Architecte Chantier naval Lancement
+   Caractéristiques techniques Longueur Maître-bau Tirant d'eau
+   Déplacement Voilure Carrière Port d'attache
+
+   Redman est un voilier monocoque de 40 pieds conçu pour la course au
+   large , il fait partie de la classe Class40 . Son nom de baptême est
+   "Maat" et son numéro de classe le 161.
+   Type Classe Histoire Architecte Constructeur Lancement Équipage
+   Équipage Carrière Propriétaire Pavillon Port d'attache
+
+   Eärendil est un voilier monocoque de 40 pieds conçu pour la course au
+   large , il fait partie de la classe Class40 .
+   Autres noms Classe Histoire Architecte Chantier naval Lancement
+   Caractéristiques techniques Longueur Maître-bau Voilure Carrière Port
+   d'attache
+

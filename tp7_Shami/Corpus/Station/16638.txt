@@ -1,0 +1,5 @@
+   Les aéroports de déroutement sont des aéroports capables de gérer un
+   avion classé ETOPS lors d'un atterrissage d'urgence et dont la distance
+   de vol au point d'urgence ne doit pas dépasser la durée de déroutement
+   ETOPS de cet avion.
+

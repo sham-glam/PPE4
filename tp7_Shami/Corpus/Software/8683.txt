@@ -1,0 +1,8 @@
+   Hunspell est un correcteur orthographique open source basé sur Myspell
+   , il est rétro compatible avec les dictionnaires Myspell.
+   L'amélioration apportée par Hunspell est l'encodage des dictionnaires
+   en UTF-8 ( Unicode ) à la place de l'encodage en ASCII utilisé par
+   Myspell.
+   Développé par Première version Dernière version Dépôt Assurance qualité
+   Écrit en Système d'exploitation Environnement Type Licence Site web
+

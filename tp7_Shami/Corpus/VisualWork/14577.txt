@@ -1,0 +1,16 @@
+   La haute tension est un terme qui caractérise, selon des normes
+   européennes, les valeurs de la tension électrique supérieures à
+   1 000 volts en courant alternatif et 1 500 volts en courant continu [1]
+   .
+
+   Un conducteur à haute tension est un composant des Lignes à haute
+   tension aériennes dans lequel circule le courant électrique . À la
+   différence d'un cable electrique a haute tension , un conducteur
+   électrique à haute tension ne comporte pas d'isolation : c'est l'air
+   entourant conducteur qui assure son isolation.
+
+   Un disjoncteur à haute tension est destiné à établir, supporter et
+   interrompre des courants sous sa tension assignée (la tension maximale
+   du réseau électrique qu'il protège), selon la définition donnée par la
+   Commission électrotechnique internationale [1] . Il opère à la fois :
+

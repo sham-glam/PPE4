@@ -1,0 +1,4 @@
+   Famille Type de noyau État du projet Entreprise /
+   Développeur Licence États des sources Dernière version stable Méthode
+   de mise à jour Site web
+

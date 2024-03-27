@@ -1,0 +1,28 @@
+   L ' allée Cassard est une voie du centre-ville de Nantes , en France .
+   Il s'agit d'un ancien quai qui bordait la rive droite du cours de l'
+   Erdre , sur une portion dont le comblement permit la création du cours
+   des 50-Otages .
+   Situation Coordonnées Pays Région Ville Quartier(s) Début Fin
+   Morphologie Type Histoire Anciens noms
+
+   Le Cassard est une frégate antiaérienne de la classe Cassard (type F70)
+   de la Marine nationale française . Elle participe à la lutte
+   anti-aérienne. Son indicatif visuel est D614. Sa ville marraine est
+   Dijon . Elle est nommée en l'honneur du marin et corsaire français du
+   XVII ^e siècle Jacques Cassard .
+   Type Classe Histoire A servi dans Lancement Statut Équipage Équipage
+   Caractéristiques techniques Longueur Maître-bau Tirant d'eau Tirant
+   d'air Déplacement Propulsion Puissance Vitesse Caractéristiques
+   militaires Armement Rayon d'action Aéronefs Carrière Port d'attache
+   Indicatif
+
+   Le Cassard (indicatif visuel : D623) est un escorteur d'escadre du type
+   T 47, classe Surcouf de la Marine nationale française , spécialisé dans
+   la lutte anti-sous-marine et antiaérienne . Il a été nommé d'après le
+   corsaire Jacques Cassard (1679-1740).
+   Type Histoire A servi dans Chantier naval Quille posée Lancement
+   Commission Statut Équipage Équipage Caractéristiques techniques
+   Longueur Maître-bau Tirant d'eau Déplacement Propulsion Puissance
+   Vitesse Caractéristiques militaires Rayon d'action Carrière Port
+   d'attache Indicatif
+

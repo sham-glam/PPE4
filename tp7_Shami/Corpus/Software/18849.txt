@@ -1,0 +1,24 @@
+   HTML5 ( HyperText Markup Language 5 ) est la dernière révision majeure
+   du HTML ( format de données conçu pour représenter les pages web ).
+   Cette version a été finalisée le 28 octobre 2014 . HTML5 spécifie deux
+   syntaxes d'un modèle abstrait défini en termes de DOM : HTML5 et XHTML5
+   .
+   Date de première version Paradigme Auteur Développeur Dernière version
+   Version en développement Typage Influencé par A influencé Écrit en Site
+   web Extensions de fichiers
+
+   Open Video est un élément introduit dans le langage informatique HTML5
+   dédié aux pages web, qui permet une meilleure incorporation des vidéos
+   dans l' Internet par ses navigateurs . Les créateurs de l'élément ont
+   l'intention d'en faire la nouvelle norme pour la lecture de vidéos en
+   ligne, mais l'absence d'accord en ce qui concerne les formats de vidéos
+   supportés a gêné son essor. ^[réf. nécessaire]
+
+   HTML5 présente quelques particularités pour son utilisation dans les
+   téléphones mobiles , les tablettes tactiles , et autres dispositifs
+   nomades.
+
+   HTML5 présente quelques particularités pour son utilisation dans les
+   téléphones mobiles , les tablettes tactiles , et autres dispositifs
+   nomades.
+

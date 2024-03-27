@@ -1,0 +1,7 @@
+   L ' aéroport international Roméo-LeBlanc , code IATA : YQM • code OACI
+   : CYQM , est un aéroport de la ville de Moncton ( Nouveau-Brunswick )
+   au Canada se situant à un peu moins de 10 km du centre-ville.
+   Localisation Pays Ville Coordonnées Altitude Informations aéronautiques
+   Code IATA Code OACI Nom cartographique Type d'aéroport Gestionnaire
+   Pistes Direction Longueur Surface
+

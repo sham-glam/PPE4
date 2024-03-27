@@ -1,0 +1,34 @@
+   Un moteur de jeu est un ensemble de composants logiciels qui effectuent
+   des calculs de géométrie et de physique utilisés dans les jeux vidéo .
+   L'ensemble forme un simulateur en temps réel souple qui reproduit les
+   caractéristiques des mondes imaginaires dans lesquels se déroulent les
+   jeux. Le but visé par un moteur de jeu est de permettre à une équipe de
+   développement de se concentrer sur le contenu et le déroulement du jeu
+   plutôt que la résolution de problèmes informatiques.
+
+   Un moteur de jeu est un ensemble de composants logiciels qui effectuent
+   des calculs de géométrie et de physique utilisés dans les jeux vidéo .
+   L'ensemble forme un simulateur en temps réel souple qui reproduit les
+   caractéristiques des mondes imaginaires dans lesquels se déroulent les
+   jeux. Le but visé par un moteur de jeu est de permettre à une équipe de
+   développement de se concentrer sur le contenu et le déroulement du jeu
+   plutôt que la résolution de problèmes informatiques.
+
+   ALIVE est une rétronymie habituellement utilisée pour désigner le
+   moteur de jeu Aware Lifeforms In Virtual Entertainment , utilisé pour
+   les jeux vidéo de la série Oddworld et développé par Oddworld
+   Inhabitants .
+
+   Ubisoft Anvil (connu sous le nom Scimitar durant son développement,
+   puis Anvil et AnvilNext ) est un moteur de jeu développé par Ubisoft
+   Montréal . Utilisé pour la première fois, sous le nom Anvil, sur le jeu
+   Assassin's Creed , il fut ensuite repris pour d'autres jeux du studio,
+   tout en ayant été progressivement optimisé, notamment au niveau du
+   clipping et du tearing . Une nouvelle version, l'AnvilNext, a été faite
+   pour lui succéder. Il a été utilisé pour la première fois avec
+   Assassin's Creed III . Lors d'une interview faite au site jeuxvideo.com
+   un développeur de chez Ubisoft Montréal indiquait qu'AnvilNext
+   contenait 7 millions de lignes de code.
+   Développé par Écrit en Système d'exploitation Environnement Type
+   Licence Site web
+

@@ -1,0 +1,34 @@
+   En informatique , un système de fichiers distribués ou système de
+   fichiers en réseau est un système de fichiers qui permet le partage de
+   fichiers à plusieurs clients au travers du réseau informatique .
+   Contrairement à un système de fichiers local, le client n'a pas accès
+   au système de stockage sous-jacent, et interagit avec le système de
+   fichiers via un protocole adéquat.
+
+   Voldemort est un Système de fichiers distribué fondé sur le principe de
+   stockage Clé-Valeur utilisé et développé par LinkedIn pour son stockage
+   de «haute- scalabilité » [1] . Son nom est tiré de l'antagoniste de
+   l'œuvre de fiction Harry Potter , Voldemort [2] . Le projet ne consiste
+   pas en un système de gestion de base de données , mais plutôt en une
+   table de hachage persistante de haute-disponibilité, tolérante aux
+   pannes et distribuée.
+   Développé par Première version Dernière version Dépôt Écrit en Système
+   d'exploitation Langues Type Licence Site web
+
+   Voldemort est un Système de fichiers distribué fondé sur le principe de
+   stockage Clé-Valeur utilisé et développé par LinkedIn pour son stockage
+   de «haute- scalabilité » [1] . Son nom est tiré de l'antagoniste de
+   l'œuvre de fiction Harry Potter , Voldemort [2] . Le projet ne consiste
+   pas en un système de gestion de base de données , mais plutôt en une
+   table de hachage persistante de haute-disponibilité, tolérante aux
+   pannes et distribuée.
+   Développé par Première version Dernière version Dépôt Écrit en Système
+   d'exploitation Langues Type Licence Site web
+
+   En informatique , un système de fichiers distribués ou système de
+   fichiers en réseau est un système de fichiers qui permet le partage de
+   fichiers à plusieurs clients au travers du réseau informatique .
+   Contrairement à un système de fichiers local, le client n'a pas accès
+   au système de stockage sous-jacent, et interagit avec le système de
+   fichiers via un protocole adéquat.
+
